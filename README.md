@@ -20,5 +20,5 @@ _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2018.
 
 ⭕ __V-BMS360: A video extention to the BMS360 image saliency model__  
 Lebreton, Pierre, Stephan Fremerey, and Alexander Raake  
-_IEEE International Conference on Multimedia & Expo Workshops (__ICMEW__)_, 2018  
+_IEEE International Conference on Multimedia & Expo Workshops (__ICMEW__)_, 2018.
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8551523) [[code]](https://github.com/Telecommunication-Telemedia-Assessment/V-BMS360)
