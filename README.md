@@ -9,7 +9,7 @@
 
 ### ⭕ Image
 
-* __SaltiNet: Scan-path Prediction on 360 Degree Images using Saliency Volumes__  
+* __SaltiNet:  <font color=red>Scan-path</font> prediction on 360 degree images using saliency volumes__  
 Marc Assens, Kevin McGuinness, Xavier Giro-i-Nieto, Noel E. O'Connor  
 _IEEE International Conference on Computer Vision Workshops (__ICCVW__)_, 2017.
 [[pdf]](https://arxiv.org/pdf/1707.03123.pdf)  [[code]](https://github.com/massens/saliency-360salient-2017) 
