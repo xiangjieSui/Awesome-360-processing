@@ -2,10 +2,10 @@
 
 
 ## Content
-1. 360 Saliency detection
+1. 360 Saliency detection/prediction
 2. 360 quality assessment
 
-## 360 Saliency detection
+## 360 Saliency detection/prediction
 
 ### ⭕ Image
 
