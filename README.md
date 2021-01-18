@@ -14,6 +14,10 @@ Fang, Yuming, Xiaoqiang Zhang, and Nevrez Imamoglu
 _Signal Processing: Image Communication (__SPIC__)_, 2018.
 [[pdf]](http://sim.jxufe.cn/JDMKL/pdf/A%20novel%20superpixel-based%20saliency%20detection%20model%20for%20360-degree%20images.pdf?WebShieldDRSessionVerify=Fse08zSUzY98q7ecbMBh) [[code]](http://sim.jxufe.cn/JDMKL/code/360-image-saliency-code.zip)
 
+* __The prediction of head and eye movement for 360 degree images__  
+Zhu, Yucheng, Guangtao Zhai, and Xiongkuo Min  
+_Signal Processing: Image Communication (__SPIC__)_, 2018.
+[[pdf]](https://www.researchgate.net/profile/Yucheng-Zhu/publication/325290936_The_prediction_of_head_and_eye_movement_for_360_degree_images/links/5c63dc9ba6fdccb608be664f/The-prediction-of-head-and-eye-movement-for-360-degree-images.pdf)  
 ### ⭕ Video
 
 * __Cube padding for weakly-supervised saliency prediction in 360° videos__  
