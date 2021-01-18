@@ -47,6 +47,11 @@ Fang, Yuming, Xiaoqiang Zhang, and Nevrez Imamoglu
 _Signal Processing: Image Communication (__SPIC__)_, 2018.
 [[pdf]](http://sim.jxufe.cn/JDMKL/pdf/A%20novel%20superpixel-based%20saliency%20detection%20model%20for%20360-degree%20images.pdf?WebShieldDRSessionVerify=Fse08zSUzY98q7ecbMBh) [[code]](http://sim.jxufe.cn/JDMKL/code/360-image-saliency-code.zip)
 
+* __SalGCN: _Saliency Prediction_ for 360-Degree Images Based on Spherical Graph Convolutional Networks__  
+Haoran Lv, Qin Yang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong  
+_ACM International Conference on Multimedia (__ACMM__)_, 2020.
+[[pdf]](https://dl.acm.org/doi/10.1145/3394171.3413733)
+
 
 ### ⭕ Video
 
@@ -95,6 +100,11 @@ _IEEE International Conference on Multimedia & Expo Workshops (__ICMEW__)_, 2018
 Ziheng Zhang, Yanyu Xu, Jingyi Yu  
 _European Conference on Computer Vision (__ECCV__)_, 2018.
 [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.pdf) [[code]](https://github.com/xuyanyu-shh/Saliency-detection-in-360-video)
+
+* __Viewport-dependent Saliency Prediction in 360° Video__  
+Minglang Qiao, Mai Xu, Zulin Wang, Ali Borji  
+_IEEE Transactions on Multimedia (__TMM__)_, 2020.
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/9072511)
 
 
 
