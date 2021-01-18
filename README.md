@@ -50,17 +50,17 @@ _Signal Processing: Image Communication (__SPIC__)_, 2018.
 
 #### `Scanpath/HM/EM prediction + FOV Piloting`
 
-* __Pano2vid: Automatic cinematography for watching 360° videos__  
+* __Pano2vid: _Automatic cinematography_ for watching 360° videos__  
 Yu-Chuan Su, Dinesh Jayaraman, and Kristen Grauman  
 _Asian Conference on Computer Vision (__ACCV__)_, 2016.
 [[pdf]](http://vision.cs.utexas.edu/projects/Pano2Vid/accv2016-0327su.pdf) [[code]](https://github.com/sammy-su/Pano2Vid)
 
-* __Making 360∘ Video Watchable in 2D: Learning Videography for Click Free Viewing__  
+* __Making 360∘ Video Watchable in 2D: Learning _Videography_ for Click Free Viewing__  
 Yu-Chuan Su, Kristen Grauman  
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.
 [[pdf]](https://arxiv.org/pdf/1703.00495.pdf) [[code]](https://github.com/sammy-su/Pano2Vid)
 
-* __Deep 360 Pilot: Learning a Deep Agent for Piloting through 360° Sports Video__  
+* __Deep 360 Pilot: Learning a Deep Agent for _Piloting_ through 360° Sports Video__  
 Hou-Ning Hu, Yen-Chen Lin, Ming-Yu Liu, Hsien-Tzu Cheng, Yung-Ju Chang, Min Sun  
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.
 [[pdf]](https://arxiv.org/pdf/1705.01759.pdf) [[code]](https://github.com/eborboihuc/Deep360Pilot-CVPR17)
