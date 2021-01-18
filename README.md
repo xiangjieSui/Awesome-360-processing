@@ -98,7 +98,7 @@ Yasser Dahou, Marouane Tliba, Kevin McGuinness, Noel O'Connor
 _arxiv_, 2020
 [[pdf]](https://arxiv.org/pdf/2011.10600.pdf) [[code]](https://github.com/mtliba/ATSal)
 
-* __Interactive and automatic navigation for 360◦ video playback__  
+* __Interactive and automatic navigation for 360° video playback__  
 Kyoungkook Kang and Sunghyun Cho  
 _ACM Transactions on Graphics (TOG)_, 2019.
 [[pdf]](http://cg.postech.ac.kr/papers/2019_SIGGRAPH_CHO.pdf) [[project]](https://kkang831.github.io/publication/SIG_2019_Interactive360/supplementary/)
