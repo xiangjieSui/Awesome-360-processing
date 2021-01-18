@@ -11,7 +11,7 @@
 
 #### `Scanpath/HM/EM prediction`
 
-* __SaltiNet: _Scan-path_ prediction on 360 degree images using saliency volumes__  
+* __SaltiNet: _Scan-path prediction_ on 360 degree images using saliency volumes__  
 Marc Assens, Kevin McGuinness, Xavier Giro-i-Nieto, Noel E. O'Connor  
 _IEEE International Conference on Computer Vision Workshops (__ICCVW__)_, 2017.
 [[pdf]](https://arxiv.org/pdf/1707.03123.pdf)  [[code]](https://github.com/massens/saliency-360salient-2017) 
@@ -21,14 +21,19 @@ Zhu, Yucheng, Guangtao Zhai, and Xiongkuo Min
 _Signal Processing: Image Communication (__SPIC__)_, 2018.
 [[pdf]](https://www.researchgate.net/profile/Yucheng-Zhu/publication/325290936_The_prediction_of_head_and_eye_movement_for_360_degree_images/links/5c63dc9ba6fdccb608be664f/The-prediction-of-head-and-eye-movement-for-360-degree-images.pdf) 
 
-* __SalGAN360: Visual saliency prediction on 360 degree images with generative adversarial networks__  
-Fang-Yi Chao, Lu Zhang, Wassim Hamidouche, and Olivier Deforges  
-_IEEE International Conference on Multimedia & Expo Workshops (__ICMEW__)_, 2018.
-[[pdf]](http://openhevc.insa-rennes.fr/wp-content/uploads/2018/07/camera-ready_icme2018template.pdf) [[code]](https://github.com/FannyChao/SalGAN360)
+* __PathGAN: visual _Scanpath Prediction_ with Generative Adversarial Networks__  
+Marc Assens, Xavier Giro-i-Nieto, Kevin McGuinness, and Noel E. O’Connor  
+_European Conference on Computer Vision (__ECCV__)_, 2018.
+[[pdf]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Assens_PathGAN_Visual_Scanpath_Prediction_with_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf) [[code]](https://github.com/imatge-upc/pathgan)
 
 ****
 
 #### `Salient regions prediction`
+
+* __SalGAN360: Visual _saliency prediction_ on 360 degree images with generative adversarial networks__  
+Fang-Yi Chao, Lu Zhang, Wassim Hamidouche, and Olivier Deforges  
+_IEEE International Conference on Multimedia & Expo Workshops (__ICMEW__)_, 2018.
+[[pdf]](http://openhevc.insa-rennes.fr/wp-content/uploads/2018/07/camera-ready_icme2018template.pdf) [[code]](https://github.com/FannyChao/SalGAN360)
 
 * __SalNet360: _Saliency maps_ for omnidirectional images with CNN__  
 Rafael Monroy, Sebastian Lutz, Tejo Chalasani, and Aljosa Smolic  
