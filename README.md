@@ -81,8 +81,6 @@ Mai Xu, Yuhang Song, Jianyi Wang, Minglang Qiao, Liangyu Huo, and Zulin Wang
 _IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2019.
 [[pdf]](https://arxiv.org/pdf/1710.10755.pdf) [[code]](https://github.com/YuhangSong/DHP)
 
-****
-
 #### `Salient regions prediction`
 
 * __Cube padding for weakly-supervised _saliency prediction_ in 360° videos__  
@@ -104,6 +102,14 @@ _European Conference on Computer Vision (__ECCV__)_, 2018.
 Minglang Qiao, Mai Xu, Zulin Wang, Ali Borji  
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9072511)
+
+#### `Dataset/Tools`
+
+* __A Saliency Dataset for 360-Degree Videos__  
+Anh Nguyen and Zhisheng Yan
+_ACM Multimedia Systems Conference (__ACMMSys__)_, 2019.
+[[pdf]](https://zyan.gsucreate.org/papers/360saliency_mmsys19.pdf) [[code]](https://github.com/phananh1010/PanoSaliency)
+
 
 
 
