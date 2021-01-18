@@ -7,11 +7,14 @@
 
 ## 360 Saliency detection
 
+### ⭕ Image
+
+* __A novel superpixel-based saliency detection model for 360-degree images__  
+Fang, Yuming, Xiaoqiang Zhang, and Nevrez Imamoglu  
+_Signal Processing: Image Communication (__SPIC__)_, 2018.
+[[pdf]](http://sim.jxufe.cn/JDMKL/pdf/A%20novel%20superpixel-based%20saliency%20detection%20model%20for%20360-degree%20images.pdf?WebShieldDRSessionVerify=Fse08zSUzY98q7ecbMBh) [[code]](http://sim.jxufe.cn/JDMKL/code/360-image-saliency-code.zip)
+
 ### ⭕ Video
-* __Your attention is unique: Detecting 360-degree video saliency in head-mounted display for head movement prediction__   
-   Nguyen, Anh, Zhisheng Yan, and Klara Nahrstedt  
-   _ACM international conference on Multimedia (__ACMM__)_, 2018.
-   [[pdf]](https://zyan.gsucreate.org/papers/panosalnet_mm18.pdf) [[code]](https://github.com/phananh1010/PanoSalNet)
 
 * __Cube padding for weakly-supervised saliency prediction in 360° videos__  
 Hsien-Tzu Cheng, Chun-Hung Chao, Jin-Dong Dong, Hao-Kai Wen, Tyng-Luh Liu, Min Sun  
@@ -28,10 +31,17 @@ Ziheng Zhang, Yanyu Xu, Jingyi Yu
 _European Conference on Computer Vision (__ECCV__)_, 2018.
 [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.pdf) [[code]](https://github.com/xuyanyu-shh/Saliency-detection-in-360-video)
 
+* __Your attention is unique: Detecting 360-degree video saliency in head-mounted display for head movement prediction__   
+   Nguyen, Anh, Zhisheng Yan, and Klara Nahrstedt  
+   _ACM international conference on Multimedia (__ACMM__)_, 2018.
+   [[pdf]](https://zyan.gsucreate.org/papers/panosalnet_mm18.pdf) [[code]](https://github.com/phananh1010/PanoSalNet)
+
 * __Predicting head movement in panoramic video: A deep reinforcement learning approach__  
 Mai Xu, Yuhang Song, Jianyi Wang, Minglang Qiao, Liangyu Huo, and Zulin Wang  
 _IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2019.
 [[pdf]](https://arxiv.org/pdf/1710.10755.pdf) [[code]](https://github.com/YuhangSong/DHP)
+
+
 
 
 
