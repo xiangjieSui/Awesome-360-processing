@@ -1,11 +1,13 @@
 # Awesome-360
 
+Awesome works and resources relevant to 360 saliency prediction and visual quality assessment. Insipred by [awesome-360-vision](https://github.com/hsientzucheng/awesome-360-vision)
 
 ## Content
-1. 360 Saliency detection/prediction
-2. 360 quality assessment
+1. 360 saliency prediction
+2. 360 visual quality assessment
+3. ...
 
-## 360 Saliency detection/prediction
+## 360 saliency prediction
 
 ### ⭕ Image
 
