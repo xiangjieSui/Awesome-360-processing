@@ -9,7 +9,7 @@
 
 ### ⭕ Image
 
-#### Scanpath/HM/EM prediction
+#### `Scanpath/HM/EM prediction`
 
 * __SaltiNet: _Scan-path_ prediction on 360 degree images using saliency volumes__  
 Marc Assens, Kevin McGuinness, Xavier Giro-i-Nieto, Noel E. O'Connor  
