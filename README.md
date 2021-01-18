@@ -25,8 +25,14 @@ _IEEE International Conference on Multimedia & Expo Workshops (__ICMEW__)_, 2018
 
 ⭕ __Predicting head movement in panoramic video: A deep reinforcement learning approach__  
 Mai Xu, Yuhang Song, Jianyi Wang, Minglang Qiao, Liangyu Huo, and Zulin Wang  
-_IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2019.  
+_IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2019.
 [[pdf]](https://arxiv.org/pdf/1710.10755.pdf) [[code]](https://github.com/YuhangSong/DHP)
+
+⭕ __Saliency detection in 360° videos__
+Ziheng Zhang, Yanyu Xu, Jingyi Yu  
+_European Conference on Computer Vision (__ECCV__)_, 2018.
+[[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.pdf) [[code]](https://github.com/xuyanyu-shh/Saliency-detection-in-360-video)
+
 
 
 
