@@ -78,7 +78,7 @@ Hou-Ning Hu, Yen-Chen Lin, Ming-Yu Liu, Hsien-Tzu Cheng, Yung-Ju Chang, Min Sun
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.
 [[pdf]](https://arxiv.org/pdf/1705.01759.pdf) [[code + dataset]](https://github.com/eborboihuc/Deep360Pilot-CVPR17)
 
-* __Tell Me Where to Look: Investigating Ways for Assisting Focus in 360° Video__  
+* __Tell Me Where to Look: Investigating Ways for _Assisting Focus_ in 360° Video__  
 Yen-Chen Lin, Yung-Ju Chang, Hou-Ning Hu, Hsien-Tzu Cheng, Chi-Wen Huang, Min Sun  
 _Conference on Human Factors in Computing Systems (__CHI__)_, 2017.
 [[pdf]](https://dl.acm.org/doi/10.1145/3025453.3025757) [[project]](https://aliensunmin.github.io/project/360video-study/)
@@ -95,12 +95,12 @@ _IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 20
 
 * __ATSal: An attention based architecture for _saliency prediction_ in 360° videos__  
 Yasser Dahou, Marouane Tliba, Kevin McGuinness, Noel O'Connor  
-_arxiv_, 2020
+___arxiv___, 2020
 [[pdf]](https://arxiv.org/pdf/2011.10600.pdf) [[code]](https://github.com/mtliba/ATSal)
 
-* __Interactive and automatic navigation for 360° video playback__  
+* __Interactive and _automatic navigation_ for 360° video playback__  
 Kyoungkook Kang and Sunghyun Cho  
-_ACM Transactions on Graphics (TOG)_, 2019.
+_ACM Transactions on Graphics (__TOG__)_, 2019.
 [[pdf]](http://cg.postech.ac.kr/papers/2019_SIGGRAPH_CHO.pdf) [[project]](https://kkang831.github.io/publication/SIG_2019_Interactive360/supplementary/)
 
 #### `Salient regions prediction`
@@ -120,7 +120,7 @@ Ziheng Zhang, Yanyu Xu, Jingyi Yu
 _European Conference on Computer Vision (__ECCV__)_, 2018.
 [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.pdf) [[code]](https://github.com/xuyanyu-shh/Saliency-detection-in-360-video)
 
-* __Viewport-dependent Saliency Prediction in 360° Video__  
+* __Viewport-dependent _Saliency Prediction_ in 360° Video__  
 Minglang Qiao, Mai Xu, Zulin Wang, Ali Borji  
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9072511)
