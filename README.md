@@ -78,6 +78,11 @@ Hou-Ning Hu, Yen-Chen Lin, Ming-Yu Liu, Hsien-Tzu Cheng, Yung-Ju Chang, Min Sun
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.
 [[pdf]](https://arxiv.org/pdf/1705.01759.pdf) [[code + dataset]](https://github.com/eborboihuc/Deep360Pilot-CVPR17)
 
+* __Tell Me Where to Look: Investigating Ways for Assisting Focus in 360° Video__  
+Yen-Chen Lin, Yung-Ju Chang, Hou-Ning Hu, Hsien-Tzu Cheng, Chi-Wen Huang, Min Sun  
+_Conference on Human Factors in Computing Systems (__CHI__)_, 2017.
+[[pdf]](https://dl.acm.org/doi/10.1145/3025453.3025757) [[project]](https://aliensunmin.github.io/project/360video-study/)
+
 * __Your attention is unique: Detecting 360-degree video saliency in head-mounted display for _head movement prediction___  
 Nguyen, Anh, Zhisheng Yan, and Klara Nahrstedt  
 _ACM international conference on Multimedia (__ACMM__)_, 2018.
