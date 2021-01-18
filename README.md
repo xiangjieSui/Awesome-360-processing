@@ -21,7 +21,14 @@ Zhu, Yucheng, Guangtao Zhai, and Xiongkuo Min
 _Signal Processing: Image Communication (__SPIC__)_, 2018.
 [[pdf]](https://www.researchgate.net/profile/Yucheng-Zhu/publication/325290936_The_prediction_of_head_and_eye_movement_for_360_degree_images/links/5c63dc9ba6fdccb608be664f/The-prediction-of-head-and-eye-movement-for-360-degree-images.pdf) 
 
+* __SalGAN360: Visual saliency prediction on 360 degree images with generative adversarial networks__  
+Fang-Yi Chao, Lu Zhang, Wassim Hamidouche, and Olivier Deforges  
+_IEEE International Conference on Multimedia & Expo Workshops (__ICMEW__)_, 2018.
+[[pdf]](http://openhevc.insa-rennes.fr/wp-content/uploads/2018/07/camera-ready_icme2018template.pdf) [[code]](https://github.com/FannyChao/SalGAN360)
+
 ****
+
+#### `Salient regions prediction`
 
 * __SalNet360: _Saliency maps_ for omnidirectional images with CNN__  
 Rafael Monroy, Sebastian Lutz, Tejo Chalasani, and Aljosa Smolic  
