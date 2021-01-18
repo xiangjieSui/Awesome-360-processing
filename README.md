@@ -22,3 +22,12 @@ _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2018.
 Lebreton, Pierre, Stephan Fremerey, and Alexander Raake  
 _IEEE International Conference on Multimedia & Expo Workshops (__ICMEW__)_, 2018.
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8551523) [[code]](https://github.com/Telecommunication-Telemedia-Assessment/V-BMS360)
+
+⭕ __Predicting head movement in panoramic video: A deep reinforcement learning approach__  
+Mai Xu, Yuhang Song, Jianyi Wang, Minglang Qiao, Liangyu Huo, and Zulin Wang  
+_IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2019.  
+[[pdf]](https://arxiv.org/pdf/1710.10755.pdf) [[code]](https://github.com/YuhangSong/DHP)
+
+
+
+
