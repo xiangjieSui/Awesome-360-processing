@@ -28,8 +28,6 @@ Marc Assens, Xavier Giro-i-Nieto, Kevin McGuinness, and Noel E. O’Connor
 _European Conference on Computer Vision (__ECCV__)_, 2018.
 [[pdf]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Assens_PathGAN_Visual_Scanpath_Prediction_with_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf) [[code]](https://github.com/imatge-upc/pathgan)
 
-****
-
 #### `Salient regions prediction`
 
 * __SalGAN360: Visual _saliency prediction_ on 360 degree images with generative adversarial networks__  
@@ -52,6 +50,7 @@ Haoran Lv, Qin Yang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
 _ACM International Conference on Multimedia (__ACMM__)_, 2020.
 [[pdf]](https://dl.acm.org/doi/10.1145/3394171.3413733)
 
+****
 
 ### ⭕ Video
 
