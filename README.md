@@ -9,20 +9,26 @@
 
 ### ⭕ Image
 
-* __SaltiNet: <u>Scan-path</u> prediction on 360 degree images using saliency volumes__  
+* __SaltiNet: _Scan-path_ prediction on 360 degree images using saliency volumes__  
 Marc Assens, Kevin McGuinness, Xavier Giro-i-Nieto, Noel E. O'Connor  
 _IEEE International Conference on Computer Vision Workshops (__ICCVW__)_, 2017.
 [[pdf]](https://arxiv.org/pdf/1707.03123.pdf)  [[code]](https://github.com/massens/saliency-360salient-2017) 
+
+* __The prediction of _head and eye movement_ for 360 degree images__  
+Zhu, Yucheng, Guangtao Zhai, and Xiongkuo Min  
+_Signal Processing: Image Communication (__SPIC__)_, 2018.
+[[pdf]](https://www.researchgate.net/profile/Yucheng-Zhu/publication/325290936_The_prediction_of_head_and_eye_movement_for_360_degree_images/links/5c63dc9ba6fdccb608be664f/The-prediction-of-head-and-eye-movement-for-360-degree-images.pdf) 
+
+* __SalNet360: Saliency maps for omnidirectional images with CNN__  
+Rafael Monroy, Sebastian Lutz, Tejo Chalasani, and Aljosa Smolic  
+_Signal Processing: Image Communication (__SPIC__)_, 2018.
+[[pdf]](https://arxiv.org/pdf/1709.06505.pdf) [[code]](https://github.com/V-Sense/salnet360)
 
 * __A novel superpixel-based _saliency detection_ model for 360-degree images__  
 Fang, Yuming, Xiaoqiang Zhang, and Nevrez Imamoglu  
 _Signal Processing: Image Communication (__SPIC__)_, 2018.
 [[pdf]](http://sim.jxufe.cn/JDMKL/pdf/A%20novel%20superpixel-based%20saliency%20detection%20model%20for%20360-degree%20images.pdf?WebShieldDRSessionVerify=Fse08zSUzY98q7ecbMBh) [[code]](http://sim.jxufe.cn/JDMKL/code/360-image-saliency-code.zip)
 
-* __The prediction of _head and eye movement_ for 360 degree images__  
-Zhu, Yucheng, Guangtao Zhai, and Xiongkuo Min  
-_Signal Processing: Image Communication (__SPIC__)_, 2018.
-[[pdf]](https://www.researchgate.net/profile/Yucheng-Zhu/publication/325290936_The_prediction_of_head_and_eye_movement_for_360_degree_images/links/5c63dc9ba6fdccb608be664f/The-prediction-of-head-and-eye-movement-for-360-degree-images.pdf) 
 
 ### ⭕ Video
 
