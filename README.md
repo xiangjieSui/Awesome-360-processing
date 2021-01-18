@@ -53,7 +53,7 @@ _ACM International Conference on Multimedia (__ACMM__)_, 2020.
 #### `Dataset/Tools`
 
 * __A dataset of head and eye movements for 360 degree images__  
-Yashas Rai, Jesús Gutiérrez, and Patrick Le Callet 
+Yashas Rai, Jesús Gutiérrez, and Patrick Le Callet   
 _ACM Multimedia Systems Conference (__ACMMSys__)_, 2017.
 [[pdf]](https://www.researchgate.net/profile/Yashas_Rai/publication/317393759_A_Dataset_of_Head_and_Eye_Movements_for_360_Degree_Images/links/5e7a56c892851cdfca2f4ba2/A-Dataset-of-Head-and-Eye-Movements-for-360-Degree-Images.pdf) [[project]](https://salient360.ls2n.fr/datasets/training-dataset/)
 
@@ -115,7 +115,7 @@ _IEEE Transactions on Multimedia (__TMM__)_, 2020.
 * __A dataset of head and eye movements for 360° videos__  
 Erwan David, Jesus Gutierrez, Antoine Coutrot, Matthieu Perreira da Silva, and Patrick Le Callet  
 _ACM Multimedia Systems Conference (__ACMMSys__)_, 2018. 
-[[pdf]](https://hal.archives-ouvertes.fr/hal-01994923/document) [[project]](https://www.interdigital.com/data_sets/salient-360-dataset)
+[[pdf]](https://hal.archives-ouvertes.fr/hal-01994923/document) [[project]](https://salient360.ls2n.fr/datasets/training-dataset/)
 
 * __A saliency dataset for 360-degree videos__  
 Anh Nguyen and Zhisheng Yan  
