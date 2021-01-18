@@ -19,7 +19,9 @@ Zhu, Yucheng, Guangtao Zhai, and Xiongkuo Min
 _Signal Processing: Image Communication (__SPIC__)_, 2018.
 [[pdf]](https://www.researchgate.net/profile/Yucheng-Zhu/publication/325290936_The_prediction_of_head_and_eye_movement_for_360_degree_images/links/5c63dc9ba6fdccb608be664f/The-prediction-of-head-and-eye-movement-for-360-degree-images.pdf) 
 
-* __SalNet360: Saliency maps for omnidirectional images with CNN__  
+****
+
+* __SalNet360: _Saliency maps_ for omnidirectional images with CNN__  
 Rafael Monroy, Sebastian Lutz, Tejo Chalasani, and Aljosa Smolic  
 _Signal Processing: Image Communication (__SPIC__)_, 2018.
 [[pdf]](https://arxiv.org/pdf/1709.06505.pdf) [[code]](https://github.com/V-Sense/salnet360)
