@@ -8,7 +8,7 @@
 ## 360 Saliency detection
 
 ### ⭕ Video
-__Your attention is unique: Detecting 360-degree video saliency in head-mounted display for head movement prediction__   
+* __Your attention is unique: Detecting 360-degree video saliency in head-mounted display for head movement prediction__   
    Nguyen, Anh, Zhisheng Yan, and Klara Nahrstedt  
    _ACM international conference on Multimedia (__ACMM__)_, 2018.
    [[pdf]](https://zyan.gsucreate.org/papers/panosalnet_mm18.pdf) [[code]](https://github.com/phananh1010/PanoSalNet)
