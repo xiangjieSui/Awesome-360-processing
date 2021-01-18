@@ -66,7 +66,7 @@ _ACM Multimedia Systems Conference (__ACMMSys__)_, 2017.
 * __Pano2vid: _Automatic cinematography_ for watching 360° videos__  
 Yu-Chuan Su, Dinesh Jayaraman, and Kristen Grauman  
 _Asian Conference on Computer Vision (__ACCV__)_, 2016.
-[[pdf]](http://vision.cs.utexas.edu/projects/Pano2Vid/accv2016-0327su.pdf) [[code]](https://github.com/sammy-su/Pano2Vid)
+[[pdf]](http://vision.cs.utexas.edu/projects/Pano2Vid/accv2016-0327su.pdf) [[code]](https://github.com/sammy-su/Pano2Vid) [[dataset]](http://vision.cs.utexas.edu/projects/Pano2Vid/)
 
 * __Making 360∘ Video Watchable in 2D: Learning _Videography_ for Click Free Viewing__  
 Yu-Chuan Su, Kristen Grauman  
@@ -76,7 +76,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.
 * __Deep 360 Pilot: Learning a Deep Agent for _Piloting_ through 360° Sports Video__  
 Hou-Ning Hu, Yen-Chen Lin, Ming-Yu Liu, Hsien-Tzu Cheng, Yung-Ju Chang, Min Sun  
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.
-[[pdf]](https://arxiv.org/pdf/1705.01759.pdf) [[code]](https://github.com/eborboihuc/Deep360Pilot-CVPR17)
+[[pdf]](https://arxiv.org/pdf/1705.01759.pdf) [[code + dataset]](https://github.com/eborboihuc/Deep360Pilot-CVPR17)
 
 * __Your attention is unique: Detecting 360-degree video saliency in head-mounted display for _head movement prediction___  
 Nguyen, Anh, Zhisheng Yan, and Klara Nahrstedt  
@@ -88,7 +88,7 @@ Mai Xu, Yuhang Song, Jianyi Wang, Minglang Qiao, Liangyu Huo, and Zulin Wang
 _IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2019.
 [[pdf]](https://arxiv.org/pdf/1710.10755.pdf) [[code]](https://github.com/YuhangSong/DHP)
 
-* __ATSal: An attention based architecture for _saliency prediction_ in 360 ◦ videos__  
+* __ATSal: An attention based architecture for _saliency prediction_ in 360° videos__  
 Yasser Dahou, Marouane Tliba, Kevin McGuinness, Noel O'Connor  
 _arxiv_, 2020
 [[pdf]](https://arxiv.org/pdf/2011.10600.pdf) [[code]](https://github.com/mtliba/ATSal)
@@ -123,10 +123,10 @@ _IEEE Transactions on Multimedia (__TMM__)_, 2020.
 
 #### `Dataset/Tools`
 
-* __A dataset of head and eye movements for 360° videos [salient360!]__  
-Erwan David, Jesus Gutierrez, Antoine Coutrot, Matthieu Perreira da Silva, and Patrick Le Callet  
-_ACM Multimedia Systems Conference (__ACMMSys__)_, 2018. 
-[[pdf]](https://hal.archives-ouvertes.fr/hal-01994923/document) [[project]](https://salient360.ls2n.fr/datasets/training-dataset/)
+* __Deep 360 Pilot: Learning a Deep Agent for _Piloting_ through 360° Sports Video__  
+Hou-Ning Hu, Yen-Chen Lin, Ming-Yu Liu, Hsien-Tzu Cheng, Yung-Ju Chang, Min Sun  
+_IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.
+[[pdf]](https://arxiv.org/pdf/1705.01759.pdf) [[project]](https://github.com/eborboihuc/Deep360Pilot-CVPR17)
 
 * __A saliency dataset for 360-degree videos__  
 Anh Nguyen and Zhisheng Yan  
