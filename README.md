@@ -48,6 +48,37 @@ _Signal Processing: Image Communication (__SPIC__)_, 2018.
 
 ### ⭕ Video
 
+#### `Scanpath/HM/EM prediction + FOV Piloting`
+
+* __Pano2vid: Automatic cinematography for watching 360° videos__  
+Yu-Chuan Su, Dinesh Jayaraman, and Kristen Grauman  
+_Asian Conference on Computer Vision (__ACCV__)_, 2016.
+[[pdf]](http://vision.cs.utexas.edu/projects/Pano2Vid/accv2016-0327su.pdf) [[code]](https://github.com/sammy-su/Pano2Vid)
+
+* __Making 360∘ Video Watchable in 2D: Learning Videography for Click Free Viewing__  
+Yu-Chuan Su, Kristen Grauman  
+_IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.
+[[pdf]](https://arxiv.org/pdf/1703.00495.pdf) [[code]](https://github.com/sammy-su/Pano2Vid)
+
+* __Deep 360 Pilot: Learning a Deep Agent for Piloting through 360° Sports Video__  
+Hou-Ning Hu, Yen-Chen Lin, Ming-Yu Liu, Hsien-Tzu Cheng, Yung-Ju Chang, Min Sun  
+_IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.
+[[pdf]](https://arxiv.org/pdf/1705.01759.pdf) [[code]](https://github.com/eborboihuc/Deep360Pilot-CVPR17)
+
+* __Your attention is unique: Detecting 360-degree video saliency in head-mounted display for _head movement prediction___  
+Nguyen, Anh, Zhisheng Yan, and Klara Nahrstedt  
+_ACM international conference on Multimedia (__ACMM__)_, 2018.
+[[pdf]](https://zyan.gsucreate.org/papers/panosalnet_mm18.pdf) [[code]](https://github.com/phananh1010/PanoSalNet)
+
+* __Predicting _head movement_ in panoramic video: A deep reinforcement learning approach__  
+Mai Xu, Yuhang Song, Jianyi Wang, Minglang Qiao, Liangyu Huo, and Zulin Wang  
+_IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2019.
+[[pdf]](https://arxiv.org/pdf/1710.10755.pdf) [[code]](https://github.com/YuhangSong/DHP)
+
+****
+
+#### `Salient regions prediction`
+
 * __Cube padding for weakly-supervised _saliency prediction_ in 360° videos__  
 Hsien-Tzu Cheng, Chun-Hung Chao, Jin-Dong Dong, Hao-Kai Wen, Tyng-Luh Liu, Min Sun  
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2018.
@@ -63,15 +94,6 @@ Ziheng Zhang, Yanyu Xu, Jingyi Yu
 _European Conference on Computer Vision (__ECCV__)_, 2018.
 [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.pdf) [[code]](https://github.com/xuyanyu-shh/Saliency-detection-in-360-video)
 
-* __Your attention is unique: Detecting 360-degree video saliency in head-mounted display for _head movement prediction___   
-   Nguyen, Anh, Zhisheng Yan, and Klara Nahrstedt  
-   _ACM international conference on Multimedia (__ACMM__)_, 2018.
-   [[pdf]](https://zyan.gsucreate.org/papers/panosalnet_mm18.pdf) [[code]](https://github.com/phananh1010/PanoSalNet)
-
-* __Predicting _head movement_ in panoramic video: A deep reinforcement learning approach__  
-Mai Xu, Yuhang Song, Jianyi Wang, Minglang Qiao, Liangyu Huo, and Zulin Wang  
-_IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2019.
-[[pdf]](https://arxiv.org/pdf/1710.10755.pdf) [[code]](https://github.com/YuhangSong/DHP)
 
 
 
