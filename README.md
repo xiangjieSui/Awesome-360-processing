@@ -55,7 +55,7 @@ _ACM International Conference on Multimedia (__ACMM__)_, 2020.
 * __A dataset of head and eye movements for 360 degree images__  
 Yashas Rai, Jesús Gutiérrez, and Patrick Le Callet   
 _ACM Multimedia Systems Conference (__ACMMSys__)_, 2017.
-[[pdf]](https://www.researchgate.net/profile/Yashas_Rai/publication/317393759_A_Dataset_of_Head_and_Eye_Movements_for_360_Degree_Images/links/5e7a56c892851cdfca2f4ba2/A-Dataset-of-Head-and-Eye-Movements-for-360-Degree-Images.pdf) [[project]](https://salient360.ls2n.fr/datasets/training-dataset/)
+[[pdf]](https://dl.acm.org/doi/abs/10.1145/3083187.3083218) [[project]](https://salient360.ls2n.fr/datasets/training-dataset/)
 
 ****
 
@@ -88,6 +88,11 @@ Mai Xu, Yuhang Song, Jianyi Wang, Minglang Qiao, Liangyu Huo, and Zulin Wang
 _IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2019.
 [[pdf]](https://arxiv.org/pdf/1710.10755.pdf) [[code]](https://github.com/YuhangSong/DHP)
 
+* __ATSal: An attention based architecture for _saliency prediction_ in 360 ◦ videos__  
+Yasser Dahou, Marouane Tliba, Kevin McGuinness, Noel O'Connor  
+_arxiv_, 2020
+[[pdf]](https://arxiv.org/pdf/2011.10600.pdf) [[code]](https://github.com/mtliba/ATSal)
+
 #### `Salient regions prediction`
 
 * __Cube padding for weakly-supervised _saliency prediction_ in 360° videos__  
@@ -109,6 +114,7 @@ _European Conference on Computer Vision (__ECCV__)_, 2018.
 Minglang Qiao, Mai Xu, Zulin Wang, Ali Borji  
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9072511)
+
 
 #### `Dataset/Tools`
 
