@@ -11,7 +11,7 @@
 
 * __SaltiNet: Scan-path Prediction on 360 Degree Images using Saliency Volumes__  
 Marc Assens, Kevin McGuinness, Xavier Giro-i-Nieto, Noel E. O'Connor  
-_ IEEE International Conference on Computer Vision Workshops (__ICCVW__)_, 2017.
+_IEEE International Conference on Computer Vision Workshops (__ICCVW__)_, 2017.
 [[pdf]](https://arxiv.org/pdf/1707.03123.pdf)  [[code]](https://github.com/massens/saliency-360salient-2017) 
 
 * __A novel superpixel-based saliency detection model for 360-degree images__  
