@@ -2,12 +2,12 @@
 
 Awesome works and resources relevant to 360 saliency prediction and visual quality assessment. Insipred by [awesome-360-vision](https://github.com/hsientzucheng/awesome-360-vision)
 
-## Content
+## 🔺 Content
 1. 360 saliency prediction
 2. 360 visual quality assessment
 3. ...
 
-## 360 saliency prediction
+## 🔺 360 saliency prediction
 
 ### ⭕ Image
 
@@ -139,7 +139,9 @@ _ACM Multimedia Systems Conference (__ACMMSys__)_, 2019.
 [[pdf]](https://zyan.gsucreate.org/papers/360saliency_mmsys19.pdf) [[project]](https://github.com/phananh1010/PanoSaliency)
 
 
+## 🔺 360 visual quality assessment
 
+Updating...
 
 
 
