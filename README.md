@@ -45,7 +45,7 @@ Fang, Yuming, Xiaoqiang Zhang, and Nevrez Imamoglu
 _Signal Processing: Image Communication (__SPIC__)_, 2018.  
 [[pdf]](http://sim.jxufe.cn/JDMKL/pdf/A%20novel%20superpixel-based%20saliency%20detection%20model%20for%20360-degree%20images.pdf?WebShieldDRSessionVerify=Fse08zSUzY98q7ecbMBh) [[code]](http://sim.jxufe.cn/JDMKL/code/360-image-saliency-code.zip)
 
-* __SalGCN: _Saliency Prediction_ for 360-Degree Images Based on Spherical Graph Convolutional Networks__  
+* __SalGCN: _Saliency prediction_ for 360-degree images based on spherical graph convolutional networks__  
 Haoran Lv, Qin Yang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong  
 _ACM International Conference on Multimedia (__ACMM__)_, 2020.  
 [[pdf]](https://dl.acm.org/doi/10.1145/3394171.3413733)
@@ -68,17 +68,17 @@ Yu-Chuan Su, Dinesh Jayaraman, and Kristen Grauman
 _Asian Conference on Computer Vision (__ACCV__)_, 2016.  
 [[pdf]](http://vision.cs.utexas.edu/projects/Pano2Vid/accv2016-0327su.pdf) [[code]](https://github.com/sammy-su/Pano2Vid) [[dataset]](http://vision.cs.utexas.edu/projects/Pano2Vid/)
 
-* __Making 360∘ Video Watchable in 2D: Learning _Videography_ for Click Free Viewing__  
+* __Making 360∘ video watchable in 2D: learning _videography_ for click free viewing__  
 Yu-Chuan Su, Kristen Grauman  
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.  
 [[pdf]](https://arxiv.org/pdf/1703.00495.pdf) [[code]](https://github.com/sammy-su/Pano2Vid)
 
-* __Deep 360 Pilot: Learning a Deep Agent for _Piloting_ through 360° Sports Video__  
+* __Deep 360 pilot: Learning a deep agent for _piloting_ through 360° sports video__  
 Hou-Ning Hu, Yen-Chen Lin, Ming-Yu Liu, Hsien-Tzu Cheng, Yung-Ju Chang, Min Sun  
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.  
 [[pdf]](https://arxiv.org/pdf/1705.01759.pdf) [[code + dataset]](https://github.com/eborboihuc/Deep360Pilot-CVPR17)
 
-* __Tell Me Where to Look: Investigating Ways for _Assisting Focus_ in 360° Video__  
+* __Tell me where to look: Investigating ways for _assisting focus_ in 360° video__  
 Yen-Chen Lin, Yung-Ju Chang, Hou-Ning Hu, Hsien-Tzu Cheng, Chi-Wen Huang, Min Sun  
 _Conference on Human Factors in Computing Systems (__CHI__)_, 2017.  
 [[pdf]](https://dl.acm.org/doi/10.1145/3025453.3025757) [[project]](https://aliensunmin.github.io/project/360video-study/)
@@ -120,18 +120,13 @@ Ziheng Zhang, Yanyu Xu, Jingyi Yu
 _European Conference on Computer Vision (__ECCV__)_, 2018.  
 [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.pdf) [[code]](https://github.com/xuyanyu-shh/Saliency-detection-in-360-video)
 
-* __Viewport-dependent _Saliency Prediction_ in 360° Video__  
+* __Viewport-dependent _saliency prediction_ in 360° video__  
 Minglang Qiao, Mai Xu, Zulin Wang, Ali Borji  
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9072511)
 
 
 #### `Dataset/Tools`
-
-* __Deep 360 Pilot: Learning a Deep Agent for _Piloting_ through 360° Sports Video__  
-Hou-Ning Hu, Yen-Chen Lin, Ming-Yu Liu, Hsien-Tzu Cheng, Yung-Ju Chang, Min Sun  
-_IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.  
-[[pdf]](https://arxiv.org/pdf/1705.01759.pdf) [[project]](https://github.com/eborboihuc/Deep360Pilot-CVPR17)
 
 * __A saliency dataset for 360-degree videos__  
 Anh Nguyen and Zhisheng Yan  
