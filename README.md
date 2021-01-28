@@ -50,15 +50,20 @@ Haoran Lv, Qin Yang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
 _ACM International Conference on Multimedia (__ACMM__)_, 2020.  
 [[pdf]](https://dl.acm.org/doi/10.1145/3394171.3413733)
 
-* __Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking__
+* __Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking__  
 Guangxiao Ma, Shuai Li, Chenglizhao Chen, Aimin Hao, Hong Qin  
 _IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2020.  
 [[pdf]](http://probb268dca.pic5.ysjianzhan.cn/upload/TVCG20.pdf)[[code + dataset]](https://github.com/360-SSOD/download)
 
-* __A Multi-FoV Viewport-based Visual Saliency Model Using Adaptive Weighting Losses for 360◦ Images__
+* __A Multi-FoV Viewport-based Visual Saliency Model Using Adaptive Weighting Losses for 360◦ Images__  
 Fang-Yi Chao, Lu Zhang, Wassim Hamidouche, Olivier Déforges  
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.  
 [[pdf]](https://hal.archives-ouvertes.fr/hal-02881994/file/Chao%20et%20al-2020-A%20Multi-FoV%20Viewport-based%20Visual%20Saliency%20Model%20Using%20Adaptive%20Weighting.pdf) [[code]](https://github.com/FannyChao/MV-SalGAN360)
+
+* __SalBiNet360: Saliency Prediction on 360° Images with Local-Global Bifurcated Deep Network__  
+Dongwen Chen, Chunmei Qing, Xiangmin Xu, Huansheng Zhu  
+_IEEE Conference on Virtual Reality and 3D User Interfaces (__VR__)_, 2020.  
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/9089519) 
 
 #### `Dataset/Tools`
 
@@ -66,6 +71,12 @@ _IEEE Transactions on Multimedia (__TMM__)_, 2020.
 Yashas Rai, Jesús Gutiérrez, and Patrick Le Callet   
 _ACM Multimedia Systems Conference (__ACMMSys__)_, 2017.  
 [[pdf]](https://dl.acm.org/doi/abs/10.1145/3083187.3083218) [[project]](https://salient360.ls2n.fr/datasets/training-dataset/)
+
+* __A fixation-based 360° benchmark dataset for salient object detection__  
+Yi Zhang, Lu Zhang, Wassim Hamidouche, Olivier Deforges  
+_IEEE International Conference on Image Processing (__ICIP__)_, 2020.
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/9191158)[[database]](https://github.com/PanoAsh/F-360iSOD)
+
 
 ****
 
@@ -112,6 +123,11 @@ ___arxiv___, 2020.
 Kyoungkook Kang and Sunghyun Cho  
 _ACM Transactions on Graphics (__TOG__)_, 2019.  
 [[pdf]](http://cg.postech.ac.kr/papers/2019_SIGGRAPH_CHO.pdf) [[project]](https://kkang831.github.io/publication/SIG_2019_Interactive360/supplementary/)
+
+* __Attention-based Deep Reinforcement Learning for Virtual Cinematography of 360° Videos__  
+Jianyi Wang, Mai Xu, Lai Jiang, Yuhang Song  
+_IEEE Transactions on Multimedia (__TMM__)_, 2020.  
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/9186833) 
 
 #### `Salient regions prediction`
 
