@@ -74,7 +74,7 @@ _ACM Multimedia Systems Conference (__ACMMSys__)_, 2017.
 
 * __A fixation-based 360° benchmark dataset for salient object detection__  
 Yi Zhang, Lu Zhang, Wassim Hamidouche, Olivier Deforges  
-_IEEE International Conference on Image Processing (__ICIP__)_, 2020.
+_IEEE International Conference on Image Processing (__ICIP__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9191158)[[database]](https://github.com/PanoAsh/F-360iSOD)
 
 
@@ -128,6 +128,11 @@ _ACM Transactions on Graphics (__TOG__)_, 2019.
 Jianyi Wang, Mai Xu, Lai Jiang, Yuhang Song  
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9186833) 
+
+* __A Spherical Convolution Approach for Learning Long Term Viewport Prediction in 360 Immersive Video__  
+Chenglei Wu, Rui-Xiao Zhang, Zhi Wang, Lifeng Sun  
+_AAAI Conference on Artificial Intelligence (__AAAI__)_, 2020.  
+[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/7377) [[code]](https://github.com/wuchlei/AAAI20-Viewport-Prediction)
 
 #### `Salient regions prediction`
 
