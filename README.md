@@ -53,7 +53,7 @@ _ACM International Conference on Multimedia (__ACMM__)_, 2020.
 * __Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking__
 Guangxiao Ma, Shuai Li, Chenglizhao Chen, Aimin Hao, Hong Qin  
 _IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2020.  
-[[pdf]](Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking)[[code + dataset]](https://github.com/360-SSOD/download)
+[[pdf]](http://probb268dca.pic5.ysjianzhan.cn/upload/TVCG20.pdf)[[code + dataset]](https://github.com/360-SSOD/download)
 
 * __A Multi-FoV Viewport-based Visual Saliency Model Using Adaptive Weighting Losses for 360◦ Images__
 Fang-Yi Chao, Lu Zhang, Wassim Hamidouche, Olivier Déforges  
