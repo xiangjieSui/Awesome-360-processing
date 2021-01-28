@@ -75,7 +75,7 @@ _ACM Multimedia Systems Conference (__ACMMSys__)_, 2017.
 * __A fixation-based 360° benchmark dataset for salient object detection__  
 Yi Zhang, Lu Zhang, Wassim Hamidouche, Olivier Deforges  
 _IEEE International Conference on Image Processing (__ICIP__)_, 2020.  
-[[pdf]](https://ieeexplore.ieee.org/abstract/document/9191158)[[database]](https://github.com/PanoAsh/F-360iSOD)
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/9191158)[[dataset]](https://github.com/PanoAsh/F-360iSOD)
 
 
 ****
