@@ -5,7 +5,7 @@ Awesome works and resources relevant to 360 saliency prediction and visual quali
 ## 🔺 Content
 1. 360 saliency prediction
 2. 360 visual quality assessment
-3. ...
+3. 360 transmission
 
 ## 🔺 360 saliency prediction
 
@@ -49,6 +49,16 @@ _Signal Processing: Image Communication (__SPIC__)_, 2018.
 Haoran Lv, Qin Yang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong  
 _ACM International Conference on Multimedia (__ACMM__)_, 2020.  
 [[pdf]](https://dl.acm.org/doi/10.1145/3394171.3413733)
+
+* __Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking__
+Guangxiao Ma, Shuai Li, Chenglizhao Chen, Aimin Hao, Hong Qin  
+_IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2020.  
+[[pdf]](Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking)[[code + dataset]](https://github.com/360-SSOD/download)
+
+* __A Multi-FoV Viewport-based Visual Saliency Model Using Adaptive Weighting Losses for 360◦ Images__
+Fang-Yi Chao, Lu Zhang, Wassim Hamidouche, Olivier Déforges  
+_IEEE Transactions on Multimedia (__TMM__)_, 2020.  
+[[pdf]](https://hal.archives-ouvertes.fr/hal-02881994/file/Chao%20et%20al-2020-A%20Multi-FoV%20Viewport-based%20Visual%20Saliency%20Model%20Using%20Adaptive%20Weighting.pdf) [[code]](https://github.com/FannyChao/MV-SalGAN360)
 
 #### `Dataset/Tools`
 
