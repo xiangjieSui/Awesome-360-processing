@@ -6,6 +6,7 @@ Awesome works and resources relevant to 360 saliency prediction and visual quali
 1. 360 saliency prediction
 2. 360 visual quality assessment
 3. 360 transmission
+4. 360 sickness
 
 ## 🔺 360 saliency prediction
 
