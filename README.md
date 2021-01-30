@@ -185,7 +185,7 @@ Vladyslav Zakharchenko, Kwang Pyo Choi, Jeong Hoon Park
 _Optics and Photonics for Information Processing_, 2016.  
 [[pdf]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9970/99700C/Quality-metric-for-spherical-panoramic-video/10.1117/12.2235885.short?SSO=1)
 
-### ⭕ `Shpere-based`
+### ⭕ Shpere-based
 
 * __[S-PSNR] A framework to evaluate omnidirectional video coding schemes__  
 Matt Yu, Haricharan Lakshman, Bernd Girod  
@@ -197,9 +197,42 @@ Sijia Chen, Yingxue Zhang, Yiming Li, Zhenzhong Chen, Zhou Wang
 _IEEE International Conference on Multimedia and Expo (__ICME__)_, 2018.  
 [[pdf]](https://www.ece.uwaterloo.ca/~z70wang/publications/icme18.pdf)  
 
-### ⭕ `Viewport-based`
+### ⭕ Viewport-based
 
+* __Saliency-driven omnidirectional imaging adaptive coding: Modeling and assessment__  
+Guilherme Luz, João Ascenso, Catarina Brites, Fernando Pereira  
+_International Workshop on Multimedia Signal Processing (__MMSP__)_, 2017.  
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/8122228)
 
+* __Assessing visual quality of omnidirectional videos__  
+Mai Xu, Chen Li, Zhenzhong Chen, Zulin Wang, Zhenyu Guan  
+_IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 2019.  
+[[pdf]](https://ieeexplore.ieee.org/document/8572733)  
+
+* __Quality assessment of stereoscopic 360-degree images from multi-viewports__  
+Jiahua Xu, Ziyuan Luo, Wei Zhou, Wenyuan Zhang, Zhibo Chen  
+_IEEE Picture Coding Symposium (__PCS__)_, 2019.  
+[[pdf]](https://arxiv.org/pdf/1908.10079.pdf)
+
+* __Bridge the gap between VQA and human behavior on omnidirectional video: A large-scale dataset and a deep learning model__  
+Chen Li, Mai Xu, Xinzhe Du, Zulin Wang  
+_ACM international conference on Multimedia (__ACMM__)_, 2018.  
+[[pdf]](https://arxiv.org/pdf/1807.10990.pdf)  [[dataset]](https://github.com/Archer-Tatsu/VQA-ODV)
+
+* __Viewport proposal CNN for 360° video quality assessment__  
+Chen Li, Mai Xu, Lai Jiang, Shanyi Zhang, Xiaoming Tao  
+_IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2019.  
+[[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Viewport_Proposal_CNN_for_360deg_Video_Quality_Assessment_CVPR_2019_paper.pdf) [[code]](https://github.com/Archer-Tatsu/V-CNN)
+
+* __Blind omnidirectional image quality assessment with viewport oriented graph convolutional networks__  
+Jiahua Xu, Wei Zhou, Zhibo Chen  
+_IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 2020.  
+[[pdf]](https://arxiv.org/pdf/2002.09140.pdf)
+
+* __Perceptual quality assessment of omnidirectional images as moving camera videos__  
+Xiangjie Sui, Kede Ma, Yiru Yao, Yuming Fang  
+_IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2021.  
+[[pdf]](https://arxiv.org/pdf/2005.10547.pdf) [[code]](https://github.com/xiangjieSui/img2video) 
 
 
 
