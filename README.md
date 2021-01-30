@@ -185,6 +185,12 @@ Vladyslav Zakharchenko, Kwang Pyo Choi, Jeong Hoon Park
 _Optics and Photonics for Information Processing_, 2016.  
 [[pdf]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9970/99700C/Quality-metric-for-spherical-panoramic-video/10.1117/12.2235885.short?SSO=1)
 
+* __Deep virtual reality image quality assessment with human perception guider for omnidirectional image__  
+Hak Gu Kim, Heoun-Taek Lim, Yong Man Ro  
+_IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 2019.  
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/8638985)
+
+
 ### ⭕ Shpere-based
 
 * __[S-PSNR] A framework to evaluate omnidirectional video coding schemes__  
@@ -223,6 +229,11 @@ _ACM international conference on Multimedia (__ACMM__)_, 2018.
 Chen Li, Mai Xu, Lai Jiang, Shanyi Zhang, Xiaoming Tao  
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2019.  
 [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Viewport_Proposal_CNN_for_360deg_Video_Quality_Assessment_CVPR_2019_paper.pdf) [[code]](https://github.com/Archer-Tatsu/V-CNN)
+
+* __MC360IQA: A multi-channel CNN for blind 360-degree image quality assessment__  
+Wei Sun, Weike Luo, Xiongkuo Min, Guangtao Zhai, Xiaokang Yang, Ke Gu, Siwei Ma  
+_IEEE Journal of Selected Topics in Signal Processing (__JSTSP__)_, 2019.  
+[[pdf]](https://ieeexplore.ieee.org/document/8910364)
 
 * __Blind omnidirectional image quality assessment with viewport oriented graph convolutional networks__  
 Jiahua Xu, Wei Zhou, Zhibo Chen  
