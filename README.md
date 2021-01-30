@@ -178,7 +178,9 @@ _IEEE Signal Processing Letters (__SPL__)_, 2017.
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/7961186)
 
 * __[W-SSIM/WMS-SSIM] Subjective and objective quality assessment of omnidirectional video__  
-
+Francisco Lopes, João Ascenso, António Rodrigues, Maria Paula Queluz  
+_Applications of Digital Image Processing_, 2018.  
+[[pdf]](https://www.researchgate.net/profile/Maria_Queluz/publication/327712637_Subjective_and_objective_quality_assessment_of_omnidirectional_video/links/5d402b764585153e592d34b1/Subjective-and-objective-quality-assessment-of-omnidirectional-video.pdf)
 
 #### `Shpere-based`
 
