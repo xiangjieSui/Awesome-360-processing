@@ -168,7 +168,21 @@ _ACM Multimedia Systems Conference (__ACMMSys__)_, 2019.
 
 ## 🔺 360 visual quality assessment
 
-Updating...
+### ⭕ Image
+
+#### `2D-Plane-based`
+
+* __[WS-PSNR] Weighted-to-spherically-uniform quality evaluation for omnidirectional video__  
+Yule Sun, Ang Lu, Lu Yu  
+_IEEE Signal Processing Letters (__SPL__)_, 2017.  
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/7961186)
+
+* __[W-SSIM/WMS-SSIM] Subjective and objective quality assessment of omnidirectional video__  
+
+
+#### `Shpere-based`
+
+#### `Viewport-based`
 
 
 
