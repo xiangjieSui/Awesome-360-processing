@@ -1,6 +1,6 @@
 # Awesome-360-processing
 
-Awesome works and resources relevant to 360 saliency prediction and visual quality assessment. Insipred by [awesome-360-vision](https://github.com/hsientzucheng/awesome-360-vision).
+Awesome works and resources relevant to 360 processing. Insipred by [awesome-360-vision](https://github.com/hsientzucheng/awesome-360-vision).
 
 ## 🔺 Content
 1. 360 saliency prediction
