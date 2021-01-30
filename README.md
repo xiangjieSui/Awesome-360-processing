@@ -168,9 +168,7 @@ _ACM Multimedia Systems Conference (__ACMMSys__)_, 2019.
 
 ## 🔺 360 visual quality assessment
 
-### ⭕ Image
-
-#### `2D-Plane-based`
+### ⭕ 2D-Plane-based
 
 * __[WS-PSNR] Weighted-to-spherically-uniform quality evaluation for omnidirectional video__  
 Yule Sun, Ang Lu, Lu Yu  
@@ -182,9 +180,24 @@ Francisco Lopes, João Ascenso, António Rodrigues, Maria Paula Queluz
 _Applications of Digital Image Processing_, 2018.  
 [[pdf]](https://www.researchgate.net/profile/Maria_Queluz/publication/327712637_Subjective_and_objective_quality_assessment_of_omnidirectional_video/links/5d402b764585153e592d34b1/Subjective-and-objective-quality-assessment-of-omnidirectional-video.pdf)
 
-#### `Shpere-based`
+* __[CPP-PSNR] Quality metric for spherical panoramic video__  
+Vladyslav Zakharchenko, Kwang Pyo Choi, Jeong Hoon Park  
+_Optics and Photonics for Information Processing_, 2016.  
+[[pdf]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9970/99700C/Quality-metric-for-spherical-panoramic-video/10.1117/12.2235885.short?SSO=1)
 
-#### `Viewport-based`
+### ⭕ `Shpere-based`
+
+* __[S-PSNR] A framework to evaluate omnidirectional video coding schemes__  
+Matt Yu, Haricharan Lakshman, Bernd Girod  
+_IEEE International Symposium on Mixed and Augmented Reality (__ISMAR__)_, 2015.  
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/7328056)  
+
+* __[S-SSIM] Spherical structural similarity index for objective omnidirectional video quality assessment__  
+Sijia Chen, Yingxue Zhang, Yiming Li, Zhenzhong Chen, Zhou Wang  
+_IEEE International Conference on Multimedia and Expo (__ICME__)_, 2018.  
+[[pdf]](https://www.ece.uwaterloo.ca/~z70wang/publications/icme18.pdf)  
+
+### ⭕ `Viewport-based`
 
 
 
