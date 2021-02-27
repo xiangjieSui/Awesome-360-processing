@@ -261,12 +261,12 @@ _IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 20
 
 * __VRSA net: VR sickness assessment considering exceptional motion for 360° VR video__  
 Hak Gu Kim, Heoun-Taek Lim, Sangmin Lee, Yong Man Ro  
-_IEEE Transactions on Image Processing (__TIP__), 2018.  
+_IEEE Transactions on Image Processing (__TIP__)_, 2018.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8531715)
 
-* __VR Sickness Versus VR Presence: A Statistical Prediction Model__  
+* __VR sickness versus VR presence: A statistical prediction model__  
 Woojae Kim, Sanghoon Lee, Alan Conrad Bovik  
-_IEEE Transactions on Image Processing (__TIP__), 2020.  
+_IEEE Transactions on Image Processing (__TIP__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/document/9263288)
 
 
