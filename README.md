@@ -125,15 +125,20 @@ Kyoungkook Kang and Sunghyun Cho
 _ACM Transactions on Graphics (__TOG__)_, 2019.  
 [[pdf]](http://cg.postech.ac.kr/papers/2019_SIGGRAPH_CHO.pdf) [[project]](https://kkang831.github.io/publication/SIG_2019_Interactive360/supplementary/)
 
-* __Attention-based Deep Reinforcement Learning for Virtual Cinematography of 360° Videos__  
+* __Attention-based deep reinforcement learning for virtual cinematography of 360° videos__  
 Jianyi Wang, Mai Xu, Lai Jiang, Yuhang Song  
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9186833) 
 
-* __A Spherical Convolution Approach for Learning Long Term Viewport Prediction in 360 Immersive Video__  
+* __A spherical convolution approach for learning long term viewport prediction in 360 immersive video__  
 Chenglei Wu, Rui-Xiao Zhang, Zhi Wang, Lifeng Sun  
 _AAAI Conference on Artificial Intelligence (__AAAI__)_, 2020.  
 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/7377) [[code]](https://github.com/wuchlei/AAAI20-Viewport-Prediction)
+
+* __Transitioning360: Content-aware NFoV virtual camera paths for 360° video playback__  
+Miao Wang, Yi-Jun Li, Wen-Xuan Zhang  
+_International Symposium on Mixed and Augmented Reality (__ISMAR__)_, 2020.  
+[[pdf]](https://core.ac.uk/download/pdf/334410113.pdf)
 
 #### `Salient regions prediction`
 
