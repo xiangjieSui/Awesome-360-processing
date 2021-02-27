@@ -5,8 +5,8 @@ Awesome works and resources relevant to 360 processing. Insipred by [awesome-360
 ## 🔺 Content
 1. 360 saliency prediction
 2. 360 visual quality assessment
-3. 360 transmission
-4. 360 sickness
+3. 360 sickness
+4. 360 transmission 
 
 ## 🔺 360 saliency prediction
 
@@ -24,7 +24,7 @@ Zhu, Yucheng, Guangtao Zhai, and Xiongkuo Min
 _Signal Processing: Image Communication (__SPIC__)_, 2018.  
 [[pdf]](https://www.researchgate.net/profile/Yucheng-Zhu/publication/325290936_The_prediction_of_head_and_eye_movement_for_360_degree_images/links/5c63dc9ba6fdccb608be664f/The-prediction-of-head-and-eye-movement-for-360-degree-images.pdf) 
 
-* __PathGAN: visual _Scanpath Prediction_ with Generative Adversarial Networks__  
+* __PathGAN: Visual _scanpath prediction_ with generative adversarial networks__  
 Marc Assens, Xavier Giro-i-Nieto, Kevin McGuinness, and Noel E. O’Connor  
 _European Conference on Computer Vision (__ECCV__)_, 2018.  
 [[pdf]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Assens_PathGAN_Visual_Scanpath_Prediction_with_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf) [[code]](https://github.com/imatge-upc/pathgan)
@@ -51,17 +51,17 @@ Haoran Lv, Qin Yang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
 _ACM International Conference on Multimedia (__ACMM__)_, 2020.  
 [[pdf]](https://dl.acm.org/doi/10.1145/3394171.3413733)
 
-* __Stage-wise Salient Object Detection in 360° Omnidirectional Image via Object-level Semantical Saliency Ranking__  
+* __Stage-wise salient object detection in 360° omnidirectional image via object-level semantical saliency ranking__  
 Guangxiao Ma, Shuai Li, Chenglizhao Chen, Aimin Hao, Hong Qin  
 _IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2020.  
 [[pdf]](http://probb268dca.pic5.ysjianzhan.cn/upload/TVCG20.pdf)[[code + dataset]](https://github.com/360-SSOD/download)
 
-* __A Multi-FoV Viewport-based Visual Saliency Model Using Adaptive Weighting Losses for 360◦ Images__  
+* __A multi-FoV viewport-based visual saliency model using adaptive weighting losses for 360◦ images__  
 Fang-Yi Chao, Lu Zhang, Wassim Hamidouche, Olivier Déforges  
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.  
 [[pdf]](https://hal.archives-ouvertes.fr/hal-02881994/file/Chao%20et%20al-2020-A%20Multi-FoV%20Viewport-based%20Visual%20Saliency%20Model%20Using%20Adaptive%20Weighting.pdf) [[code]](https://github.com/FannyChao/MV-SalGAN360)
 
-* __SalBiNet360: Saliency Prediction on 360° Images with Local-Global Bifurcated Deep Network__  
+* __SalBiNet360: Saliency prediction on 360° images with local-global bifurcated deep network__  
 Dongwen Chen, Chunmei Qing, Xiangmin Xu, Huansheng Zhu  
 _IEEE Conference on Virtual Reality and 3D User Interfaces (__VR__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9089519) 
@@ -249,6 +249,26 @@ _IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 20
 Xiangjie Sui, Kede Ma, Yiru Yao, Yuming Fang  
 _IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2021.  
 [[pdf]](https://arxiv.org/pdf/2005.10547.pdf) [[code]](https://github.com/xiangjieSui/img2video) 
+
+* __Viewport-based omnidirectional video quality assessment: Database, modeling and inference__  
+Yu Meng, Zhan Ma  
+_IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 2021.  
+[[pdf]](https://ieeexplore.ieee.org/document/9349097)[[project]](https://vision.nju.edu.cn/20/86/c29466a467078/page.htm)
+
+
+
+## 🔺 360 sickness
+
+* __VRSA net: VR sickness assessment considering exceptional motion for 360° VR video__  
+Hak Gu Kim, Heoun-Taek Lim, Sangmin Lee, Yong Man Ro  
+_IEEE Transactions on Image Processing (__TIP__), 2018.  
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/8531715)
+
+* __VR Sickness Versus VR Presence: A Statistical Prediction Model__  
+Woojae Kim, Sanghoon Lee, Alan Conrad Bovik  
+_IEEE Transactions on Image Processing (__TIP__), 2020.  
+[[pdf]](https://ieeexplore.ieee.org/document/9263288)
+
 
 
 
