@@ -30,6 +30,10 @@ _European Conference on Computer Vision (__ECCV__)_, 2018.
 [[pdf]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Assens_PathGAN_Visual_Scanpath_Prediction_with_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf) [[code]](https://github.com/imatge-upc/pathgan)
 
 #### `Salient regions prediction`
+* __Saliency in VR: How do people explore virtual environments?__  
+Vincent Sitzmann, Ana Serrano, Amy Pavel, Maneesh Agrawala, Diego Gutierrez, Belen Masia, Gordon Wetzstein  
+_IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2018.  
+[[pdf]](https://ieeexplore.ieee.org/document/8269807)[[code]](https://vsitzmann.github.io/vr-saliency/)
 
 * __SalGAN360: Visual _saliency prediction_ on 360 degree images with generative adversarial networks__  
 Fang-Yi Chao, Lu Zhang, Wassim Hamidouche, and Olivier Deforges  
