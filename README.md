@@ -276,8 +276,11 @@ _IEEE Transactions on Image Processing (__TIP__)_, 2020.
 
 
 
-
-
+## 🔺 360 transmission
+* __Graph learning based head movement prediction for interactive 360 video streaming__  
+Xue Zhang, Gene Cheung, Yao Zhao, Patrick Le Callet, Chunyu Lin, and Jack Z. G. Tan  
+_IEEE Transactions on Image Processing (__TIP__)_, 2021.  
+[[pdf]](https://ieeexplore.ieee.org/document/9416230/authors#authors)
 
 
 
