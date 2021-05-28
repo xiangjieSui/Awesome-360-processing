@@ -284,7 +284,8 @@ _IEEE Transactions on Image Processing (__TIP__)_, 2021.
 
 * __QoE evaluation methods for 360-degree VR video transmission__ 
 Zesong Fei, Fei Wang, Jing Wang, Xiang Xie  
-_IEEE Journal of Selected Topics in Signal Processing (__JSTSP__), 2020.
+_IEEE Journal of Selected Topics in Signal Processing (__JSTSP__)_, 2020.  
+[[pdf]](https://ieeexplore.ieee.org/document/8917613)
 
 
 
