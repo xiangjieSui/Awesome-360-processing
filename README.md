@@ -134,6 +134,11 @@ Jianyi Wang, Mai Xu, Lai Jiang, Yuhang Song
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9186833) 
 
+* __DGaze: CNN-based gaze prediction in dynamic scenes__  
+Zhiming Hu, Sheng Li, Congyi Zhang, Kangrui Yi, Guoping Wang, Dinesh Manocha  
+_IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2020.  
+[[pdf]](https://cranehzm.github.io/DGaze/pdf/hu20_DGaze.pdf) [[code]](https://github.com/CraneHzm/DGaze) [[project]](https://cranehzm.github.io/DGaze)
+
 * __A spherical convolution approach for learning long term viewport prediction in 360 immersive video__  
 Chenglei Wu, Rui-Xiao Zhang, Zhi Wang, Lifeng Sun  
 _AAAI Conference on Artificial Intelligence (__AAAI__)_, 2020.  
