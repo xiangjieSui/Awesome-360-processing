@@ -292,7 +292,7 @@ Zesong Fei, Fei Wang, Jing Wang, Xiang Xie
 _IEEE Journal of Selected Topics in Signal Processing (__JSTSP__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/document/8917613)
 
-* __A Log-Rectilinear Transformation for Foveated 360-Degree Video Streaming__  
+* __A Log-Rectilinear transformation for foveated 360-degree video streaming__  
 [David Li](https://davidl.me), [Ruofei Du](https://duruofei.com), Adharsh Babu, Camelia Brumar, and [Amitabh Varshney](https://cs.umd.edu/~varshney)  
 _IEEE Transactions on Visualization and Computer Graphics (__TVCG__ Honorable Mentions)_, 2021.  
 [[pdf]](https://duruofei.com/papers/Li_ALog-RectilinearTransformationForFoveated360-DegreeVideoStreaming_TVCG2021.pdf)
