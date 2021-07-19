@@ -119,11 +119,6 @@ Mai Xu, Yuhang Song, Jianyi Wang, Minglang Qiao, Liangyu Huo, and Zulin Wang
 _IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2019.  
 [[pdf]](https://arxiv.org/pdf/1710.10755.pdf) [[code]](https://github.com/YuhangSong/DHP)
 
-* __ATSal: An attention based architecture for _saliency prediction_ in 360° videos__  
-Yasser Dahou, Marouane Tliba, Kevin McGuinness, Noel O'Connor  
-___arxiv___, 2020.  
-[[pdf]](https://arxiv.org/pdf/2011.10600.pdf) [[code]](https://github.com/mtliba/ATSal)
-
 * __Interactive and _automatic navigation_ for 360° video playback__  
 Kyoungkook Kang and Sunghyun Cho  
 _ACM Transactions on Graphics (__TOG__)_, 2019.  
@@ -170,6 +165,12 @@ _European Conference on Computer Vision (__ECCV__)_, 2018.
 Minglang Qiao, Mai Xu, Zulin Wang, Ali Borji  
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9072511)
+
+
+* __ATSal: An attention based architecture for _saliency prediction_ in 360° videos__  
+Yasser Dahou, Marouane Tliba, Kevin McGuinness, Noel O'Connor  
+___arxiv___, 2020.  
+[[pdf]](https://arxiv.org/pdf/2011.10600.pdf) [[code]](https://github.com/mtliba/ATSal)
 
 
 #### `Dataset/Tools`
