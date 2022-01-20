@@ -4,11 +4,24 @@ Awesome works and resources relevant to 360 processing. Insipred by [awesome-360
 
 Welcome pull.
 
-## 🔺 Content
-1. 360 saliency prediction
-2. 360 visual quality assessment
-3. 360 sickness
-4. 360 transmission 
+- [Awesome-360-processing]
+  * [🔺 Content](#---content)
+  * [🔺 360 saliency prediction](#---360-saliency-prediction)
+    + [Image](#--image)
+      - [`Scanpath/HM/EM prediction`](#-scanpath-hm-em-prediction-)
+      - [`Salient regions prediction`](#-salient-regions-prediction-)
+      - [`Dataset/Tools`](#-dataset-tools-)
+    + [Video](#--video)
+      - [`Scanpath/HM/EM prediction + FOV Piloting`](#-scanpath-hm-em-prediction---fov-piloting-)
+      - [`Salient regions prediction`](#-salient-regions-prediction--1)
+      - [`Dataset/Tools`](#-dataset-tools--1)
+  * [🔺 360 visual quality assessment](#---360-visual-quality-assessment)
+    + [2D-Plane-based](#--2d-plane-based)
+    + [Shpere-based](#--shpere-based)
+    + [Viewport-based](#--viewport-based)
+  * [🔺 360 sickness](#---360-sickness)
+  * [🔺 360 transmission](#---360-transmission)
+ 
 
 ## 🔺 360 saliency prediction
 
