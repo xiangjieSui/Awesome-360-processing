@@ -4,30 +4,28 @@ Awesome works and resources relevant to 360 processing. Insipred by [awesome-360
 
 Welcome pull.
 
-- [Awesome-360-processing]
-  * [🔺 Content](#---content)
-  * [🔺 360 saliency prediction](#---360-saliency-prediction)
-    + [Image](#--image)
-      - [`Scanpath/HM/EM prediction`](#-scanpath-hm-em-prediction-)
-      - [`Salient regions prediction`](#-salient-regions-prediction-)
-      - [`Dataset/Tools`](#-dataset-tools-)
-    + [Video](#--video)
-      - [`Scanpath/HM/EM prediction + FOV Piloting`](#-scanpath-hm-em-prediction---fov-piloting-)
-      - [`Salient regions prediction`](#-salient-regions-prediction--1)
-      - [`Dataset/Tools`](#-dataset-tools--1)
-  * [🔺 360 visual quality assessment](#---360-visual-quality-assessment)
-    + [2D-Plane-based](#--2d-plane-based)
-    + [Shpere-based](#--shpere-based)
-    + [Viewport-based](#--viewport-based)
-  * [🔺 360 sickness](#---360-sickness)
-  * [🔺 360 transmission](#---360-transmission)
- 
+- Awesome-360-processing
+  * [360 saliency prediction](#360-saliency-prediction)
+    + [Image](#image)
+      - [Scanpath prediction](#scanpath-prediction)
+      - [Salient regions prediction](#salient-regions-prediction)
+      - [Dataset or Tools](#dataset-or-tools)
+    + [Video](#video)
+      - [Scanpath prediction](#scanpath-prediction-1)
+      - [Salient regions prediction](#salient-regions-prediction-1)
+      - [Dataset or Tools](#dataset-or-tools-1)
+  * [360 visual quality assessment](#360-visual-quality-assessment)
+    + [2D-Plane-based](#2d-plane-based)
+    + [Shpere-based](#shpere-based)
+    + [Viewport-based](#viewport-based)
+  * [360 sickness](#360-sickness)
+  * [360 transmission](#360-transmission)
 
-## 🔺 360 saliency prediction
+## 360 saliency prediction
 
-### ⭕ Image
+### Image
 
-#### `Scanpath/HM/EM prediction`
+#### Scanpath prediction
 
 * __SaltiNet: _Scan-path prediction_ on 360 degree images using saliency volumes__  
 Marc Assens, Kevin McGuinness, Xavier Giro-i-Nieto, Noel E. O'Connor  
@@ -44,7 +42,7 @@ Marc Assens, Xavier Giro-i-Nieto, Kevin McGuinness, and Noel E. O’Connor
 _European Conference on Computer Vision (__ECCV__)_, 2018.  
 [[pdf]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Assens_PathGAN_Visual_Scanpath_Prediction_with_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf) [[code]](https://github.com/imatge-upc/pathgan)
 
-#### `Salient regions prediction`
+#### Salient regions prediction
 * __Saliency in VR: How do people explore virtual environments?__  
 Vincent Sitzmann, Ana Serrano, Amy Pavel, Maneesh Agrawala, Diego Gutierrez, Belen Masia, Gordon Wetzstein  
 _IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2018.  
@@ -85,7 +83,7 @@ Dongwen Chen, Chunmei Qing, Xiangmin Xu, Huansheng Zhu
 _IEEE Conference on Virtual Reality and 3D User Interfaces (__VR__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9089519) 
 
-#### `Dataset/Tools`
+#### Dataset or Tools
 
 * __A dataset of head and eye movements for 360 degree images [salient360!]__  
 Yashas Rai, Jesús Gutiérrez, and Patrick Le Callet   
@@ -100,9 +98,9 @@ _IEEE International Conference on Image Processing (__ICIP__)_, 2020.
 
 ****
 
-### ⭕ Video
+###  Video
 
-#### `Scanpath/HM/EM prediction + FOV Piloting`
+#### Scanpath prediction 
 
 * __Pano2vid: _Automatic cinematography_ for watching 360° videos__  
 Yu-Chuan Su, Dinesh Jayaraman, and Kristen Grauman  
@@ -159,7 +157,7 @@ Miao Wang, Yi-Jun Li, Wen-Xuan Zhang
 _International Symposium on Mixed and Augmented Reality (__ISMAR__)_, 2020.  
 [[pdf]](https://core.ac.uk/download/pdf/334410113.pdf)
 
-#### `Salient regions prediction`
+#### Salient regions prediction
 
 * __Cube padding for weakly-supervised _saliency prediction_ in 360° videos__  
 Hsien-Tzu Cheng, Chun-Hung Chao, Jin-Dong Dong, Hao-Kai Wen, Tyng-Luh Liu, Min Sun  
@@ -188,7 +186,7 @@ ___arxiv___, 2020.
 [[pdf]](https://arxiv.org/pdf/2011.10600.pdf) [[code]](https://github.com/mtliba/ATSal)
 
 
-#### `Dataset/Tools`
+#### Dataset or Tools
 
 * __A saliency dataset for 360-degree videos__  
 Anh Nguyen and Zhisheng Yan  
@@ -196,9 +194,9 @@ _ACM Multimedia Systems Conference (__ACMMSys__)_, 2019.
 [[pdf]](https://zyan.gsucreate.org/papers/360saliency_mmsys19.pdf) [[project]](https://github.com/phananh1010/PanoSaliency)
 
 
-## 🔺 360 visual quality assessment
+##  360 visual quality assessment
 
-### ⭕ 2D-Plane-based
+###  2D-Plane-based
 
 * __[WS-PSNR] Weighted-to-spherically-uniform quality evaluation for omnidirectional video__  
 Yule Sun, Ang Lu, Lu Yu  
@@ -221,7 +219,7 @@ _IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 20
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8638985)
 
 
-### ⭕ Shpere-based
+###  Shpere-based
 
 * __[S-PSNR] A framework to evaluate omnidirectional video coding schemes__  
 Matt Yu, Haricharan Lakshman, Bernd Girod  
@@ -233,7 +231,7 @@ Sijia Chen, Yingxue Zhang, Yiming Li, Zhenzhong Chen, Zhou Wang
 _IEEE International Conference on Multimedia and Expo (__ICME__)_, 2018.  
 [[pdf]](https://www.ece.uwaterloo.ca/~z70wang/publications/icme18.pdf)  
 
-### ⭕ Viewport-based
+###  Viewport-based
 
 * __Saliency-driven omnidirectional imaging adaptive coding: Modeling and assessment__  
 Guilherme Luz, João Ascenso, Catarina Brites, Fernando Pereira  
@@ -282,7 +280,7 @@ _IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 20
 
 
 
-## 🔺 360 sickness
+##  360 sickness
 
 * __VRSA net: VR sickness assessment considering exceptional motion for 360° VR video__  
 Hak Gu Kim, Heoun-Taek Lim, Sangmin Lee, Yong Man Ro  
@@ -297,7 +295,7 @@ _IEEE Transactions on Image Processing (__TIP__)_, 2020.
 
 
 
-## 🔺 360 transmission
+##  360 transmission
 * __Graph learning based head movement prediction for interactive 360 video streaming__  
 Xue Zhang, Gene Cheung, Yao Zhao, Patrick Le Callet, Chunyu Lin, and Jack Z. G. Tan  
 _IEEE Transactions on Image Processing (__TIP__)_, 2021.  
