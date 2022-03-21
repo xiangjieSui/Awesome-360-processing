@@ -174,6 +174,11 @@ Ziheng Zhang, Yanyu Xu, Jingyi Yu
 _European Conference on Computer Vision (__ECCV__)_, 2018.  
 [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.pdf) [[code]](https://github.com/xuyanyu-shh/Saliency-detection-in-360-video)
 
+* __Video Saliency Prediction Based on SpatialTemporal Two-Stream Network__  
+Kao Zhang and Zhenzhong Chen  
+_IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 2019.  
+[[pdf]](https://github.com/zhangkao/IIP_TwoS_Saliency) [[code]](https://github.com/zhangkao/IIP_TwoS_Saliency)
+
 * __Viewport-dependent _saliency prediction_ in 360° video__  
 Minglang Qiao, Mai Xu, Zulin Wang, Ali Borji  
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.  
