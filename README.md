@@ -174,7 +174,7 @@ Ziheng Zhang, Yanyu Xu, Jingyi Yu
 _European Conference on Computer Vision (__ECCV__)_, 2018.  
 [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.pdf) [[code]](https://github.com/xuyanyu-shh/Saliency-detection-in-360-video)
 
-* __Video Saliency Prediction Based on SpatialTemporal Two-Stream Network__  
+* __Video Saliency Prediction Based on Spatial Temporal Two-Stream Network__  
 Kao Zhang and Zhenzhong Chen  
 _IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 2019.  
 [[pdf]](https://github.com/zhangkao/IIP_TwoS_Saliency) [[code]](https://github.com/zhangkao/IIP_TwoS_Saliency)
@@ -281,7 +281,7 @@ _IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2021.
 * __Viewport-based omnidirectional video quality assessment: Database, modeling and inference__  
 Yu Meng, Zhan Ma  
 _IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 2021.  
-[[pdf]](https://ieeexplore.ieee.org/document/9349097)[[project]](https://vision.nju.edu.cn/20/86/c29466a467078/page.htm)
+[[pdf]](https://ieeexplore.ieee.org/document/9349097) [[project]](https://vision.nju.edu.cn/20/86/c29466a467078/page.htm)
 
 
 
