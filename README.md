@@ -2,7 +2,7 @@
 
 Awesome works and resources relevant to 360 processing. Insipred by [awesome-360-vision](https://github.com/hsientzucheng/awesome-360-vision).
 
-Welcome pull.
+Welcome to pull.
 
 - Awesome-360-processing
   * [360 saliency prediction](#360-saliency-prediction)
@@ -41,6 +41,12 @@ _Signal Processing: Image Communication (__SPIC__)_, 2018.
 Marc Assens, Xavier Giro-i-Nieto, Kevin McGuinness, and Noel E. O’Connor  
 _European Conference on Computer Vision (__ECCV__)_, 2018.  
 [[pdf]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Assens_PathGAN_Visual_Scanpath_Prediction_with_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf) [[code]](https://github.com/imatge-upc/pathgan)
+
+* __ScanGAN360: A generative model of realistic scanpaths for 360 images__  
+Daniel Martin, Ana Serrano, Alexander W. Bergman, Gordon Wetzstein, Belen Masia  
+_IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2022.  
+[[project]](http://webdiis.unizar.es/~danims/projects/ScanGAN360.html)  
+
 
 #### Salient regions prediction
 * __Saliency in VR: How do people explore virtual environments?__  
@@ -155,7 +161,8 @@ _AAAI Conference on Artificial Intelligence (__AAAI__)_, 2020.
 * __Transitioning360: Content-aware NFoV virtual camera paths for 360° video playback__  
 Miao Wang, Yi-Jun Li, Wen-Xuan Zhang  
 _International Symposium on Mixed and Augmented Reality (__ISMAR__)_, 2020.  
-[[pdf]](https://core.ac.uk/download/pdf/334410113.pdf)
+[[pdf]](https://core.ac.uk/download/pdf/334410113.pdf)  
+
 
 #### Salient regions prediction
 
@@ -283,6 +290,20 @@ Yu Meng, Zhan Ma
 _IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 2021.  
 [[pdf]](https://ieeexplore.ieee.org/document/9349097) [[project]](https://vision.nju.edu.cn/20/86/c29466a467078/page.htm)
 
+* __Omnidirectional image quality assessment by distortion discrimination assisted multi-stream network__  
+Yu Zhou, Yanjing Sun, Leida Li, Ke Gu, and Yuming Fang  
+_IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 2022. 
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/9432940) 
+
+* __Perceptual quality assessment of omnidirectional images__    
+Yuming Fang, Liping Huang, Jiebin Yan1, Xuelin Liu, Yang Liu  
+_AAAI Conference on Artificial Intelligence (__AAAI__)_, 2022.  
+[[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-4008.FangY.pdf)  
+
+* __A database for perceived quality assessment of user-generated VR videos__  
+Yuming Fang, Yiru Yao, Xiangjie Sui, and Kede Ma  
+___arxiv___, 2022.  
+[[pdf]](https://arxiv.org/pdf/2206.08751.pdf)  
 
 
 ##  360 sickness
@@ -295,10 +316,12 @@ _IEEE Transactions on Image Processing (__TIP__)_, 2018.
 * __VR sickness versus VR presence: A statistical prediction model__  
 Woojae Kim, Sanghoon Lee, Alan Conrad Bovik  
 _IEEE Transactions on Image Processing (__TIP__)_, 2020.  
-[[pdf]](https://ieeexplore.ieee.org/document/9263288)
+[[pdf]](https://ieeexplore.ieee.org/document/9263288)  
 
-
-
+* __Assessing individual VR sickness through deep feature fusion of VR video and physiological response__  
+Sangmin Lee, Seongyeop Kim, Hak Gu Kim, Yong Man Ro  
+_IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 2021.  
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/9432940)  
 
 ##  360 transmission
 * __Graph learning based head movement prediction for interactive 360 video streaming__  
