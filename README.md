@@ -42,10 +42,15 @@ Marc Assens, Xavier Giro-i-Nieto, Kevin McGuinness, and Noel E. O’Connor
 _European Conference on Computer Vision (__ECCV__)_, 2018.  
 [[pdf]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Assens_PathGAN_Visual_Scanpath_Prediction_with_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf) [[code]](https://github.com/imatge-upc/pathgan)
 
-* __ScanGAN360: A generative model of realistic scanpaths for 360 images__  
-Daniel Martin, Ana Serrano, Alexander W. Bergman, Gordon Wetzstein, Belen Masia  
+* __ScanGAN360: A generative model of realistic scanpaths for 360° images__  
+Daniel Martin, Ana Serrano, Alexander W. Bergman, Gordon Wetzstein, Belen Masia    
 _IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2022.  
-[[project]](http://webdiis.unizar.es/~danims/projects/ScanGAN360.html)  
+[[project]](http://webdiis.unizar.es/~danims/projects/ScanGAN360.html)
+
+* __ScanDMM: A deep Markov model of scanpath prediction for 360° Images__  
+Xiangjie Sui, Yuming Fang, Hanwei Zhu, Shiqi Wang, Zhou Wang  
+_IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2023.  
+[[pdf]](https://ece.uwaterloo.ca/~z70wang/publications/CVPR23_scanPath360Image.pdf)[[project]](https://github.com/xiangjieSui/ScanDMM)
 
 
 #### Salient regions prediction
@@ -113,7 +118,7 @@ Yu-Chuan Su, Dinesh Jayaraman, and Kristen Grauman
 _Asian Conference on Computer Vision (__ACCV__)_, 2016.  
 [[pdf]](http://vision.cs.utexas.edu/projects/Pano2Vid/accv2016-0327su.pdf) [[code]](https://github.com/sammy-su/Pano2Vid) [[dataset]](http://vision.cs.utexas.edu/projects/Pano2Vid/)
 
-* __Making 360∘ video watchable in 2D: learning _videography_ for click free viewing__  
+* __Making 360° video watchable in 2D: learning _videography_ for click free viewing__  
 Yu-Chuan Su, Kristen Grauman  
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2017.  
 [[pdf]](https://arxiv.org/pdf/1703.00495.pdf) [[code]](https://github.com/sammy-su/Pano2Vid)
@@ -161,7 +166,12 @@ _AAAI Conference on Artificial Intelligence (__AAAI__)_, 2020.
 * __Transitioning360: Content-aware NFoV virtual camera paths for 360° video playback__  
 Miao Wang, Yi-Jun Li, Wen-Xuan Zhang  
 _International Symposium on Mixed and Augmented Reality (__ISMAR__)_, 2020.  
-[[pdf]](https://core.ac.uk/download/pdf/334410113.pdf)  
+[[pdf]](https://core.ac.uk/download/pdf/334410113.pdf)
+
+* __Scanpath prediction in panoramic videos via expected code length minimization__   
+Mu Li, Kanglong Fan, and Kede Ma  
+_arXiv:2305.02536_, 2023.  
+[[pdf]](https://arxiv.org/pdf/2305.02536.pdf)
 
 
 #### Salient regions prediction
@@ -190,7 +200,6 @@ _IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 20
 Minglang Qiao, Mai Xu, Zulin Wang, Ali Borji  
 _IEEE Transactions on Multimedia (__TMM__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9072511)
-
 
 * __ATSal: An attention based architecture for _saliency prediction_ in 360° videos__  
 Yasser Dahou, Marouane Tliba, Kevin McGuinness, Noel O'Connor  
@@ -300,10 +309,25 @@ Yuming Fang, Liping Huang, Jiebin Yan1, Xuelin Liu, Yang Liu
 _AAAI Conference on Artificial Intelligence (__AAAI__)_, 2022.  
 [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-4008.FangY.pdf)  
 
-* __A database for perceived quality assessment of user-generated VR videos__  
+* __Subjective quality assessment of user-generated videos__  
 Yuming Fang, Yiru Yao, Xiangjie Sui, and Kede Ma  
-___arxiv___, 2022.  
-[[pdf]](https://arxiv.org/pdf/2206.08751.pdf)  
+_IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (__VRW__)_, 2023.  
+[[pdf]](https://ieeexplore.ieee.org/document/10108655)[[Database]](https://github.com/Yao-Yiru/VR-Video-Database)  
+
+* __Perceptual quality assessment of virtual reality videos in the wild__  
+Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma  
+_arXiv:2206.08751_, 2022.  
+[[pdf]](https://arxiv.org/pdf/2206.08751.pdf)
+
+* __Assessor360: Multi-sequence network for blind omnidirectional image quality assessment__  
+Tianhe Wu, Shuwei Shi, Haoming Cai, Mingdeng Cao, Jing Xiao, Yinqiang Zheng and Yujiu Yang  
+_arXiv:2305.10983_, 2023.  
+[[pdf]](https://arxiv.org/pdf/2305.10983.pdf)[[code]](https://github.com/TianheWu/Assessor360/tree/master)
+
+* __Perceptual quality assessment of 360° images based on generative scanpath representation__   
+Xiangjie Sui, Hanwei Zhu, Xuelin Liu, Yuming Fang, Shiqi Wang, Zhou Wang  
+_arXiv:2309.03472_, 2023.  
+[[pdf]](https://arxiv.org/pdf/2309.03472.pdf)[[code]](https://github.com/xiangjieSui/GSR)  
 
 
 ##  360 sickness
