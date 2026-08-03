@@ -1,6 +1,6 @@
 # Awesome-360-processing
 
-Awesome works and resources relevant to 360 processing. Insipred by [awesome-360-vision](https://github.com/hsientzucheng/awesome-360-vision).
+Awesome works and resources relevant to 360 processing. Inspired by [awesome-360-vision](https://github.com/hsientzucheng/awesome-360-vision).
 
 Welcome to pull.
 
@@ -16,8 +16,12 @@ Welcome to pull.
       - [Dataset or Tools](#dataset-or-tools-1)
   * [360 visual quality assessment](#360-visual-quality-assessment)
     + [2D-Plane-based](#2d-plane-based)
-    + [Shpere-based](#shpere-based)
+    + [Sphere-based](#sphere-based)
     + [Viewport-based](#viewport-based)
+  * [360 enhancement, editing and stitching](#360-enhancement-editing-and-stitching)
+    + [Enhancement](#enhancement)
+    + [Editing](#editing)
+    + [Stitching](#stitching)
   * [360 sickness](#360-sickness)
   * [360 transmission](#360-transmission)
 
@@ -51,6 +55,11 @@ _IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2022.
 Xiangjie Sui, Yuming Fang, Hanwei Zhu, Shiqi Wang, Zhou Wang  
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2023.  
 [[pdf]](https://ece.uwaterloo.ca/~z70wang/publications/CVPR23_scanPath360Image.pdf)[[project]](https://github.com/xiangjieSui/ScanDMM)
+
+* __ScanTD: 360° scanpath prediction based on time-series diffusion__  
+Yujia Wang, Fang-Lue Zhang, Neil A. Dodgson  
+_ACM International Conference on Multimedia (__ACMM__)_, 2024.  
+[[pdf]](https://openreview.net/pdf/dce79c493567ddd13bb07803c36db40d24c175f8.pdf) [[paper]](https://dl.acm.org/doi/10.1145/3664647.3681315)
 
 
 #### Salient regions prediction
@@ -93,6 +102,11 @@ _IEEE Transactions on Multimedia (__TMM__)_, 2020.
 Dongwen Chen, Chunmei Qing, Xiangmin Xu, Huansheng Zhu  
 _IEEE Conference on Virtual Reality and 3D User Interfaces (__VR__)_, 2020.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9089519) 
+
+* __Distortion-aware Transformer in 360° salient object detection__  
+Yinjie Zhao, Lichen Zhao, Qian Yu, Lu Sheng, Jing Zhang, Dong Xu  
+_ACM International Conference on Multimedia (__ACMM__)_, 2023.  
+[[pdf]](https://arxiv.org/pdf/2308.03359.pdf) [[code]](https://github.com/yjzhao19981027/DATFormer)
 
 #### Dataset or Tools
 
@@ -173,6 +187,11 @@ Mu Li, Kanglong Fan, and Kede Ma
 _arXiv:2305.02536_, 2023.  
 [[pdf]](https://arxiv.org/pdf/2305.02536.pdf)
 
+* __Saliency-free and aesthetic-aware panoramic video navigation__  
+Chenglizhao Chen, Guangxiao Ma, Wenfeng Song, Shuai Li, Aimin Hao, Hong Qin  
+_IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2025.  
+[[paper]](https://ieeexplore.ieee.org/document/10798616) [[code]](https://github.com/sapvn/tpami)
+
 
 #### Salient regions prediction
 
@@ -181,7 +200,7 @@ Hsien-Tzu Cheng, Chun-Hung Chao, Jin-Dong Dong, Hao-Kai Wen, Tyng-Luh Liu, Min S
 _IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2018.  
 [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_Cube_Padding_for_CVPR_2018_paper.pdf) [[code]](https://github.com/hsientzucheng/CP-360-Weakly-Supervised-Saliency)
 
-* __V-BMS360: A video extention to the BMS360 image _saliency_ model__  
+* __V-BMS360: A video extension to the BMS360 image _saliency_ model__  
 Lebreton, Pierre, Stephan Fremerey, and Alexander Raake  
 _IEEE International Conference on Multimedia & Expo Workshops (__ICMEW__)_, 2018.  
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8551523) [[code]](https://github.com/Telecommunication-Telemedia-Assessment/V-BMS360)
@@ -206,6 +225,11 @@ Yasser Dahou, Marouane Tliba, Kevin McGuinness, Noel O'Connor
 ___arxiv___, 2020.  
 [[pdf]](https://arxiv.org/pdf/2011.10600.pdf) [[code]](https://github.com/mtliba/ATSal)
 
+* __AViSal360: Audiovisual saliency prediction for 360° video__  
+Edurne Bernal-Berdun, Jorge Pina, Mateo Vallejo, Ana Serrano, Daniel Martin, Belen Masia  
+_IEEE International Symposium on Mixed and Augmented Reality (__ISMAR__)_, 2024.  
+[[pdf]](https://ana-serrano.github.io/pdf/ISMAR2024_AViSal360.pdf) [[project]](https://graphics.unizar.es/projects/AViSal360_2024/)
+
 
 #### Dataset or Tools
 
@@ -213,6 +237,16 @@ ___arxiv___, 2020.
 Anh Nguyen and Zhisheng Yan  
 _ACM Multimedia Systems Conference (__ACMMSys__)_, 2019.  
 [[pdf]](https://zyan.gsucreate.org/papers/360saliency_mmsys19.pdf) [[project]](https://github.com/phananh1010/PanoSaliency)
+
+* __D-SAV360: A dataset of gaze scanpaths on 360º ambisonic videos__  
+Edurne Bernal-Berdun, Daniel Martin, Sandra Malpica, Pedro J. Perez, Diego Gutierrez, Belen Masia, Ana Serrano  
+_IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2023.  
+[[paper]](https://doi.org/10.1109/TVCG.2023.3320237) [[project]](https://graphics.unizar.es/projects/D-SAV360_2023/)
+
+* __WinDB: HMD-free and distortion-free panoptic video fixation learning__  
+Guotao Wang, Chenglizhao Chen, Aimin Hao, Hong Qin, Deng-Ping Fan  
+_IEEE Transactions on Pattern Analysis and Machine Intelligence (__TPAMI__)_, 2025.  
+[[pdf]](https://arxiv.org/pdf/2305.13901.pdf) [[code + dataset]](https://github.com/guotaowang/windb)
 
 
 ##  360 visual quality assessment
@@ -240,7 +274,7 @@ _IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 20
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8638985)
 
 
-###  Shpere-based
+###  Sphere-based
 
 * __[S-PSNR] A framework to evaluate omnidirectional video coding schemes__  
 Matt Yu, Haricharan Lakshman, Bernd Girod  
@@ -271,7 +305,7 @@ _IEEE Picture Coding Symposium (__PCS__)_, 2019.
 
 * __Bridge the gap between VQA and human behavior on omnidirectional video: A large-scale dataset and a deep learning model__  
 Chen Li, Mai Xu, Xinzhe Du, Zulin Wang  
-_ACM international conference on Multimedia (__ACMM__)_, 2018.  
+_ACM International Conference on Multimedia (__ACMM__)_, 2018.  
 [[pdf]](https://arxiv.org/pdf/1807.10990.pdf)  [[dataset]](https://github.com/Archer-Tatsu/VQA-ODV)
 
 * __Viewport proposal CNN for 360° video quality assessment__  
@@ -305,29 +339,88 @@ _IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 20
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9432940) 
 
 * __Perceptual quality assessment of omnidirectional images__    
-Yuming Fang, Liping Huang, Jiebin Yan1, Xuelin Liu, Yang Liu  
+Yuming Fang, Liping Huang, Jiebin Yan, Xuelin Liu, Yang Liu  
 _AAAI Conference on Artificial Intelligence (__AAAI__)_, 2022.  
 [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-4008.FangY.pdf)  
+
+* __TVFormer: Trajectory-guided visual quality assessment on 360° images with Transformers__  
+Li Yang, Mai Xu, Tie Liu, Liangyu Huo, Xinbo Gao  
+_ACM International Conference on Multimedia (__ACMM__)_, 2022.  
+[[paper]](https://dl.acm.org/doi/10.1145/3503161.3547748)
+
+* __Adaptive hypergraph convolutional network for no-reference 360-degree image quality assessment__  
+Jun Fu, Chen Hou, Wei Zhou, Jiahua Xu, Zhibo Chen  
+_ACM International Conference on Multimedia (__ACMM__)_, 2022.  
+[[paper]](https://dl.acm.org/doi/10.1145/3503161.3548337)
 
 * __Subjective quality assessment of user-generated videos__  
 Yuming Fang, Yiru Yao, Xiangjie Sui, and Kede Ma  
 _IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (__VRW__)_, 2023.  
 [[pdf]](https://ieeexplore.ieee.org/document/10108655)[[Database]](https://github.com/Yao-Yiru/VR-Video-Database)  
 
-* __Perceptual quality assessment of virtual reality videos in the wild__  
-Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma  
-_arXiv:2206.08751_, 2022.  
-[[pdf]](https://arxiv.org/pdf/2206.08751.pdf)
-
 * __Assessor360: Multi-sequence network for blind omnidirectional image quality assessment__  
 Tianhe Wu, Shuwei Shi, Haoming Cai, Mingdeng Cao, Jing Xiao, Yinqiang Zheng and Yujiu Yang  
 _arXiv:2305.10983_, 2023.  
 [[pdf]](https://arxiv.org/pdf/2305.10983.pdf)[[code]](https://github.com/TianheWu/Assessor360/tree/master)
 
+* __Perceptual quality assessment of virtual reality videos in the wild__  
+Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma  
+_IEEE Transactions on Circuits and Systems for Video Technology (__TCSVT__)_, 2024.  
+[[pdf]](https://arxiv.org/pdf/2206.08751.pdf) [[code + dataset]](https://github.com/limuhit/VR-Video-Quality-in-the-Wild)
+
+* __Learned scanpaths aid blind panoramic video quality assessment__  
+Kanglong Fan, Wen Wen, Mu Li, Yifan Peng, Kede Ma  
+_IEEE Conference on Computer Vision and Pattern Recognition (__CVPR__)_, 2024.  
+[[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Learned_Scanpaths_Aid_Blind_Panoramic_Video_Quality_Assessment_CVPR_2024_paper.pdf) [[project]](https://github.com/kalofan/AutoScanpathQA)
+
+* __Dual-stream perception-driven blind quality assessment for stereoscopic omnidirectional images__  
+Zhaolin Wan, Qiushuang Yang, Zhiyang Li, Debin Zhao  
+_ACM International Conference on Multimedia (__ACMM__)_, 2024.  
+[[pdf]](https://openreview.net/pdf/a6e5f828836e8797b2fef01f5ef708b2c02c4cb1.pdf) [[paper]](https://dl.acm.org/doi/10.1145/3664647.3681561)
+
 * __Perceptual quality assessment of 360° images based on generative scanpath representation__   
 Xiangjie Sui, Hanwei Zhu, Xuelin Liu, Yuming Fang, Shiqi Wang, Zhou Wang  
-_arXiv:2309.03472_, 2023.  
+_IEEE Transactions on Image Processing (__TIP__)_, 2025.  
 [[pdf]](https://arxiv.org/pdf/2309.03472.pdf)[[code]](https://github.com/xiangjieSui/GSR)  
+
+* __Omnidirectional image quality captioning: A large-scale database and a new model__  
+Jiebin Yan, Ziwen Tan, Yuming Fang, Junjie Chen, Wenhui Jiang, Zhou Wang  
+_IEEE Transactions on Image Processing (__TIP__)_, 2025.  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10896579/) [[code + dataset]](https://github.com/WenJuing/IQCaption360)
+
+* __Subjective and objective quality assessment of non-uniformly distorted omnidirectional images__  
+Jiebin Yan, Jiale Rao, Xuelin Liu, Yuming Fang, Yifan Zuo, Weide Liu  
+_IEEE Transactions on Multimedia (__TMM__)_, 2025.  
+[[pdf]](https://arxiv.org/pdf/2501.11511.pdf) [[code + dataset]](https://github.com/RJL2000/OIQAND)
+
+
+##  360 enhancement, editing and stitching
+
+### Enhancement
+
+* __Target scanpath-guided 360-degree image enhancement__  
+Yujia Wang, Fang-Lue Zhang, Neil A. Dodgson  
+_AAAI Conference on Artificial Intelligence (__AAAI__)_, 2025.  
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32881)
+
+### Editing
+
+* __Neural panoramic representation for spatially and temporally consistent 360° video editing__  
+Simin Kou, Fang-Lue Zhang, Yu-Kun Lai, Neil A. Dodgson  
+_IEEE International Symposium on Mixed and Augmented Reality (__ISMAR__)_, 2024.  
+[[pdf]](https://orca.cardiff.ac.uk/id/eprint/171914/1/NeuralPanoRep_ISMAR2024.pdf) [[code + dataset]](https://github.com/SiminKoux/neural-panoramic-representation)
+
+* __OmniPlane: A recolorable representation for dynamic scenes in omnidirectional videos__  
+Simin Kou, Fang-Lue Zhang, Jakob Nazarenus, Reinhard Koch, Neil A. Dodgson  
+_IEEE Transactions on Visualization and Computer Graphics (__TVCG__)_, 2025.  
+[[paper]](https://ieeexplore.ieee.org/document/10847904/) [[code]](https://github.com/SiminKoux/OmniPlane-official-implementation)
+
+### Stitching
+
+* __OmniStitch: Depth-aware stitching framework for omnidirectional vision with multiple cameras__  
+Sooho Kim, Soyeon Hong, Kyungsoo Park, Hyunsouk Cho, Kyung-Ah Sohn  
+_ACM International Conference on Multimedia (__ACMM__)_, 2024.  
+[[pdf]](https://openreview.net/pdf/abe41c2a71676f4bd99ce7e3e59990498c6aaa58.pdf) [[code]](https://github.com/tngh5004/Omnistitch)
 
 
 ##  360 sickness
@@ -364,5 +457,3 @@ _IEEE Transactions on Visualization and Computer Graphics (__TVCG__ Honorable Me
 [[pdf]](https://duruofei.com/papers/Li_ALog-RectilinearTransformationForFoveated360-DegreeVideoStreaming_TVCG2021.pdf)
 [[project]](https://augmentariumlab.github.io/foveated-360-video)
 [[code]](https://github.com/AugmentariumLab/foveated-360-video)
-
-
